@@ -1,0 +1,251 @@
+,day,month,year,hour,minute,team_1,team_2,g1,g2
+0,21,3,2020,16,0,Kasachstan,Schottland,3,0
+1,21,3,2020,18,0,Zypern,San Marino,5,0
+2,21,3,2020,20,45,Niederlande,Weissrussland,4,0
+3,21,3,2020,20,45,Nordirland,Estland,2,0
+4,21,3,2020,20,45,Kroatien,Aserbaidschan,2,1
+5,21,3,2020,20,45,Slowakei,Ungarn,2,0
+6,21,3,2020,20,45,Österreich,Polen,0,1
+7,21,3,2020,20,45,Mazedonien,Letland,3,1
+8,21,3,2020,20,45,Israel,Slowenien,1,1
+9,21,3,2020,20,45,Belgien,Russland,3,1
+10,22,3,2020,18,0,Bulgarien,Montenegro,1,1
+11,22,3,2020,20,45,England,Tschechien,5,0
+12,22,3,2020,20,45,Luxemburg,Litauen,2,1
+13,22,3,2020,20,45,Portugal,Ukraine,0,0
+14,22,3,2020,20,45,Albanien,Türkei,0,2
+15,22,3,2020,20,45,Andorra,Island,0,2
+16,22,3,2020,20,45,Moldau,Frankreich,1,4
+17,23,3,2020,15,0,Georgia,Schweiz,0,2
+18,23,3,2020,18,0,Gibraltar,Irland,0,1
+19,23,3,2020,18,0,Malta,Färöer Inseln,2,1
+20,23,3,2020,18,0,Schweden,Rumänien,2,1
+21,23,3,2020,20,45,Spanien,Norwegen,2,1
+22,23,3,2020,20,45,Bosnien Herz.,Armenien,2,1
+23,23,3,2020,20,45,Italien,Finnland,2,0
+24,23,3,2020,20,45,Liechtenstein,Griechenland,0,2
+25,24,3,2020,15,0,Wales,Slowakei,1,0
+26,24,3,2020,15,0,Kasachstan,Russland,0,4
+27,24,3,2020,18,0,Ungarn,Kroatien,2,1
+28,24,3,2020,18,0,Israel,Österreich,4,2
+29,24,3,2020,18,0,San Marino,Schottland,0,2
+30,24,3,2020,20,45,Niederlande,Deutschland,2,3
+31,24,3,2020,20,45,Nordirland,Weissrussland,2,1
+32,24,3,2020,20,45,Polen,Letland,2,0
+33,24,3,2020,20,45,Slowenien,Mazedonien,1,1
+34,24,3,2020,20,45,Zypern,Belgien,0,2
+35,25,3,2020,18,0,Türkei,Moldau,4,0
+36,25,3,2020,20,45,Kosovo,Bulgarien,1,1
+37,25,3,2020,20,45,Montenegro,England,1,5
+38,25,3,2020,20,45,Luxemburg,Ukraine,1,2
+39,25,3,2020,20,45,Portugal,Serbien,1,1
+40,25,3,2020,20,45,Andorra,Albanien,0,3
+41,25,3,2020,20,45,Frankreich,Island,4,0
+42,26,3,2020,18,0,Armenien,Finnland,0,2
+43,26,3,2020,20,45,Irland,Georgia,1,0
+44,26,3,2020,20,45,Schweiz,Dänemark,3,3
+45,26,3,2020,20,45,Malta,Spanien,0,2
+46,26,3,2020,20,45,Norwegen,Schweden,3,3
+47,26,3,2020,20,45,Rumänien,Färöer Inseln,4,1
+48,26,3,2020,20,45,Bosnien Herz.,Griechenland,2,2
+49,26,3,2020,20,45,Italien,Liechtenstein,6,0
+50,7,6,2020,18,0,Georgia,Gibraltar,3,0
+51,7,6,2020,20,45,Tschechien,Bulgarien,2,1
+52,7,6,2020,20,45,Montenegro,Kosovo,1,1
+53,7,6,2020,20,45,Litauen,Luxemburg,1,1
+54,7,6,2020,20,45,Ukraine,Serbien,5,0
+55,7,6,2020,20,45,Dänemark,Irland,1,1
+56,7,6,2020,20,45,Färöer Inseln,Spanien,1,4
+57,7,6,2020,20,45,Norwegen,Rumänien,2,2
+58,7,6,2020,20,45,Schweden,Malta,3,0
+59,7,6,2020,20,45,Österreich,Slowenien,1,0
+60,7,6,2020,20,45,Mazedonien,Polen,0,1
+61,7,6,2020,20,45,Letland,Israel,0,3
+62,8,6,2020,15,0,Kroatien,Wales,2,1
+63,8,6,2020,15,0,Island,Albanien,1,0
+64,8,6,2020,18,0,Estland,Nordirland,1,2
+65,8,6,2020,18,0,Aserbaidschan,Ungarn,1,3
+66,8,6,2020,18,0,Moldau,Andorra,1,0
+67,8,6,2020,18,0,Russland,San Marino,9,0
+68,8,6,2020,18,0,Armenien,Liechtenstein,3,0
+69,8,6,2020,18,0,Finnland,Bosnien Herz.,2,0
+70,8,6,2020,20,45,Weissrussland,Deutschland,0,2
+71,8,6,2020,20,45,Türkei,Frankreich,2,0
+72,8,6,2020,20,45,Belgien,Kasachstan,3,0
+73,8,6,2020,20,45,Schottland,Zypern,2,1
+74,8,6,2020,20,45,Griechenland,Italien,0,3
+75,10,6,2020,20,45,Bulgarien,Kosovo,2,3
+76,10,6,2020,20,45,Tschechien,Montenegro,3,0
+77,10,6,2020,20,45,Serbien,Litauen,4,1
+78,10,6,2020,20,45,Ukraine,Luxemburg,1,0
+79,10,6,2020,20,45,Dänemark,Georgia,5,1
+80,10,6,2020,20,45,Irland,Gibraltar,2,0
+81,10,6,2020,20,45,Färöer Inseln,Norwegen,0,2
+82,10,6,2020,20,45,Malta,Rumänien,0,4
+83,10,6,2020,20,45,Spanien,Schweden,3,0
+84,10,6,2020,20,45,Mazedonien,Österreich,1,4
+85,10,6,2020,20,45,Letland,Slowenien,0,5
+86,10,6,2020,20,45,Polen,Israel,4,0
+87,11,6,2020,16,0,Kasachstan,San Marino,4,0
+88,11,6,2020,18,0,Aserbaidschan,Slowakei,1,5
+89,11,6,2020,20,45,Weissrussland,Nordirland,0,1
+90,11,6,2020,20,45,Deutschland,Estland,8,0
+91,11,6,2020,20,45,Ungarn,Wales,1,0
+92,11,6,2020,20,45,Albanien,Moldau,2,0
+93,11,6,2020,20,45,Andorra,Frankreich,0,4
+94,11,6,2020,20,45,Island,Türkei,2,1
+95,11,6,2020,20,45,Belgien,Schottland,3,0
+96,11,6,2020,20,45,Russland,Zypern,1,0
+97,11,6,2020,20,45,Griechenland,Armenien,2,3
+98,11,6,2020,20,45,Italien,Bosnien Herz.,2,1
+99,11,6,2020,20,45,Liechtenstein,Finnland,0,2
+100,5,9,2020,18,0,Armenien,Italien,1,3
+101,5,9,2020,20,45,Gibraltar,Dänemark,0,6
+102,5,9,2020,20,45,Irland,Schweiz,1,1
+103,5,9,2020,20,45,Färöer Inseln,Schweden,0,4
+104,5,9,2020,20,45,Norwegen,Malta,2,0
+105,5,9,2020,20,45,Rumänien,Spanien,1,2
+106,5,9,2020,20,45,Israel,Mazedonien,1,1
+107,5,9,2020,20,45,Bosnien Herz.,Liechtenstein,5,0
+108,5,9,2020,20,45,Finnland,Griechenland,1,0
+109,6,9,2020,20,45,Estland,Weissrussland,1,2
+110,6,9,2020,20,45,Deutschland,Niederlande,2,4
+111,6,9,2020,20,45,Slowakei,Kroatien,0,4
+112,6,9,2020,20,45,Wales,Aserbaidschan,2,1
+113,6,9,2020,20,45,Österreich,Letland,6,0
+114,6,9,2020,20,45,Slowenien,Polen,2,0
+115,6,9,2020,20,45,Zypern,Kasachstan,1,1
+116,6,9,2020,20,45,San Marino,Belgien,0,4
+117,6,9,2020,20,45,Schottland,Russland,1,2
+118,7,9,2020,15,0,Kosovo,Tschechien,2,1
+119,7,9,2020,18,0,England,Bulgarien,4,0
+120,7,9,2020,18,0,Litauen,Ukraine,0,3
+121,7,9,2020,18,0,Island,Moldau,3,0
+122,7,9,2020,20,45,Serbien,Portugal,2,4
+123,7,9,2020,20,45,Frankreich,Albanien,4,1
+124,7,9,2020,20,45,Türkei,Andorra,1,0
+125,8,9,2020,15,0,Armenien,Bosnien Herz.,4,2
+126,8,9,2020,18,0,Georgia,Dänemark,0,0
+127,8,9,2020,18,0,Schweiz,Gibraltar,4,0
+128,8,9,2020,18,0,Rumänien,Malta,1,0
+129,8,9,2020,20,45,Spanien,Färöer Inseln,4,0
+130,8,9,2020,20,45,Schweden,Norwegen,1,1
+131,8,9,2020,20,45,Finnland,Italien,1,2
+132,8,9,2020,20,45,Griechenland,Liechtenstein,1,1
+133,9,9,2020,18,0,Aserbaidschan,Kroatien,1,1
+134,9,9,2020,20,45,Estland,Niederlande,0,4
+135,9,9,2020,20,45,Nordirland,Deutschland,0,2
+136,9,9,2020,20,45,Ungarn,Slowakei,1,2
+137,9,9,2020,20,45,Letland,Mazedonien,0,2
+138,9,9,2020,20,45,Polen,Österreich,0,0
+139,9,9,2020,20,45,Slowenien,Israel,3,2
+140,9,9,2020,20,45,Russland,Kasachstan,1,0
+141,9,9,2020,20,45,San Marino,Zypern,0,4
+142,9,9,2020,20,45,Schottland,Belgien,0,4
+143,10,9,2020,20,45,England,Kosovo,5,3
+144,10,9,2020,20,45,Montenegro,Tschechien,0,3
+145,10,9,2020,20,45,Litauen,Portugal,1,5
+146,10,9,2020,20,45,Luxemburg,Serbien,1,3
+147,10,9,2020,20,45,Albanien,Island,4,2
+148,10,9,2020,20,45,Frankreich,Andorra,3,0
+149,10,9,2020,20,45,Moldau,Türkei,0,4
+150,10,10,2020,16,0,Kasachstan,Zypern,1,2
+151,10,10,2020,18,0,Weissrussland,Estland,0,0
+152,10,10,2020,20,45,Niederlande,Nordirland,3,1
+153,10,10,2020,20,45,Kroatien,Ungarn,3,0
+154,10,10,2020,20,45,Slowakei,Wales,1,1
+155,10,10,2020,20,45,Österreich,Israel,3,1
+156,10,10,2020,20,45,Mazedonien,Slowenien,2,1
+157,10,10,2020,20,45,Letland,Polen,0,3
+158,10,10,2020,20,45,Belgien,San Marino,9,0
+159,10,10,2020,20,45,Russland,Schottland,4,0
+160,11,10,2020,20,45,Tschechien,England,2,1
+161,11,10,2020,20,45,Montenegro,Bulgarien,0,0
+162,11,10,2020,20,45,Portugal,Luxemburg,3,0
+163,11,10,2020,20,45,Ukraine,Litauen,2,0
+164,11,10,2020,20,45,Andorra,Moldau,1,0
+165,11,10,2020,20,45,Island,Frankreich,0,1
+166,11,10,2020,20,45,Türkei,Albanien,1,0
+167,12,10,2020,15,0,Georgia,Irland,0,0
+168,12,10,2020,18,0,Dänemark,Schweiz,1,0
+169,12,10,2020,18,0,Färöer Inseln,Rumänien,0,3
+170,12,10,2020,18,0,Bosnien Herz.,Finnland,4,1
+171,12,10,2020,20,45,Malta,Schweden,0,4
+172,12,10,2020,20,45,Norwegen,Spanien,1,1
+173,12,10,2020,20,45,Italien,Griechenland,2,0
+174,12,10,2020,20,45,Liechtenstein,Armenien,1,1
+175,13,10,2020,15,0,Kasachstan,Belgien,0,2
+176,13,10,2020,18,0,Weissrussland,Niederlande,1,2
+177,13,10,2020,18,0,Ungarn,Aserbaidschan,1,0
+178,13,10,2020,18,0,Zypern,Russland,0,5
+179,13,10,2020,18,0,Schottland,San Marino,6,0
+180,13,10,2020,20,45,Estland,Deutschland,0,3
+181,13,10,2020,20,45,Wales,Kroatien,1,1
+182,13,10,2020,20,45,Polen,Mazedonien,2,0
+183,13,10,2020,20,45,Slowenien,Österreich,0,1
+184,14,10,2020,20,45,Bulgarien,England,0,6
+185,14,10,2020,20,45,Kosovo,Montenegro,2,0
+186,14,10,2020,20,45,Litauen,Serbien,1,2
+187,14,10,2020,20,45,Ukraine,Portugal,2,1
+188,14,10,2020,20,45,Frankreich,Türkei,1,1
+189,14,10,2020,20,45,Island,Andorra,2,0
+190,14,10,2020,20,45,Moldau,Albanien,0,4
+191,15,10,2020,18,0,Finnland,Armenien,3,0
+192,15,10,2020,20,45,Gibraltar,Georgia,2,3
+193,15,10,2020,20,45,Schweiz,Irland,2,0
+194,15,10,2020,20,45,Färöer Inseln,Malta,1,0
+195,15,10,2020,20,45,Rumänien,Norwegen,1,1
+196,15,10,2020,20,45,Schweden,Spanien,1,1
+197,15,10,2020,20,45,Israel,Letland,3,1
+198,15,10,2020,20,45,Griechenland,Bosnien Herz.,2,1
+199,15,10,2020,20,45,Liechtenstein,Italien,0,5
+200,14,11,2020,18,0,Türkei,Island,0,0
+201,14,11,2020,20,45,Tschechien,Kosovo,2,1
+202,14,11,2020,20,45,England,Montenegro,7,0
+203,14,11,2020,20,45,Portugal,Litauen,6,0
+204,14,11,2020,20,45,Serbien,Luxemburg,3,2
+205,14,11,2020,20,45,Albanien,Andorra,2,2
+206,14,11,2020,20,45,Frankreich,Moldau,2,1
+207,15,11,2020,18,0,Norwegen,Färöer Inseln,4,0
+208,15,11,2020,18,0,Armenien,Griechenland,0,1
+209,15,11,2020,18,0,Finnland,Liechtenstein,3,0
+210,15,11,2020,20,45,Dänemark,Gibraltar,6,0
+211,15,11,2020,20,45,Schweiz,Georgia,1,0
+212,15,11,2020,20,45,Rumänien,Schweden,0,2
+213,15,11,2020,20,45,Spanien,Malta,7,0
+214,15,11,2020,20,45,Bosnien Herz.,Italien,0,3
+215,16,11,2020,15,0,Zypern,Schottland,1,2
+216,16,11,2020,18,0,Aserbaidschan,Wales,0,2
+217,16,11,2020,18,0,Slowenien,Letland,1,0
+218,16,11,2020,18,0,Russland,Belgien,1,4
+219,16,11,2020,18,0,San Marino,Kasachstan,1,3
+220,16,11,2020,20,45,Deutschland,Weissrussland,4,0
+221,16,11,2020,20,45,Nordirland,Niederlande,0,0
+222,16,11,2020,20,45,Kroatien,Slowakei,3,1
+223,16,11,2020,20,45,Österreich,Mazedonien,2,1
+224,16,11,2020,20,45,Israel,Polen,1,2
+225,17,11,2020,15,0,Luxemburg,Portugal,0,2
+226,17,11,2020,15,0,Serbien,Ukraine,2,2
+227,17,11,2020,18,0,Bulgarien,Tschechien,1,0
+228,17,11,2020,18,0,Kosovo,England,0,4
+229,17,11,2020,20,45,Albanien,Frankreich,0,2
+230,17,11,2020,20,45,Andorra,Türkei,0,2
+231,17,11,2020,20,45,Moldau,Island,1,2
+232,18,11,2020,20,45,Gibraltar,Schweiz,1,6
+233,18,11,2020,20,45,Irland,Dänemark,1,1
+234,18,11,2020,20,45,Malta,Norwegen,1,2
+235,18,11,2020,20,45,Spanien,Rumänien,5,0
+236,18,11,2020,20,45,Schweden,Färöer Inseln,3,0
+237,18,11,2020,20,45,Griechenland,Finnland,2,1
+238,18,11,2020,20,45,Italien,Armenien,9,1
+239,18,11,2020,20,45,Liechtenstein,Bosnien Herz.,0,3
+240,19,11,2020,20,45,Deutschland,Nordirland,6,1
+241,19,11,2020,20,45,Niederlande,Estland,5,0
+242,19,11,2020,20,45,Slowakei,Aserbaidschan,2,0
+243,19,11,2020,20,45,Wales,Ungarn,2,0
+244,19,11,2020,20,45,Mazedonien,Israel,1,0
+245,19,11,2020,20,45,Letland,Österreich,1,0
+246,19,11,2020,20,45,Polen,Slowenien,3,2
+247,19,11,2020,20,45,Belgien,Zypern,6,1
+248,19,11,2020,20,45,San Marino,Russland,0,5
+249,19,11,2020,20,45,Schottland,Kasachstan,3,1

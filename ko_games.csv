@@ -1,0 +1,16 @@
+,game,place,day,month,year,hour,minute,team1,team2
+0,AF,Amsterdam,26,06,21,18,00,2A,2B
+1,AF,London,26,06,21,21,00,1A,2C
+2,AF,Budapest,27,06,21,18,00,1C,3D/E/F
+3,AF,Sevilla,27,06,21,21,00,1B,3A/D/E/F
+4,AF,Kopenhagen,28,06,21,18,00,2D,2E
+5,AF,Bukarest,28,06,21,21,00,1F,3A/B/C
+6,AF,London,29,06,21,18,00,1D,2F
+7,AF,Glasgow,29,06,21,21,00,1E,3A/B/C/D
+8,VF,StPetersburg,02,07,21,18,00,Sieger AF Bukarest,Sieger AF Kopenhagen
+9,VF,Mnchen,02,07,21,21,00,Sieger AF Sevilla,Sieger AF London 1
+10,VF,Baku,03,07,21,18,00,Sieger AF Budapest,Sieger AF Amsterdam
+11,VF,Rom,03,07,21,21,00,Sieger AF Glasgow,Sieger AF London 2
+12,HF,London,06,07,21,21,00,Sieger VF 2,Sieger VF 1
+13,HF,London,07,07,21,21,00,Sieger VF 4,Sieger VF 3
+14,Finale,London,11,07,21,21,00,Sieger HF 1,Sieger HF 2
