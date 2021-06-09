@@ -2,6 +2,7 @@ from torch.utils.data import DataLoader, Dataset
 import pandas as pd
 import numpy as np
 import time
+import torch
 
 ONE_HOT_DIM = 55
 
@@ -34,10 +35,12 @@ class Matches(Dataset):
         x1 = self.toh(row['team_1'])
         x2 = self.toh(row['team_2'])
 
+        x = np.concatenate([x1, x2])
+
         y1 = row['g1']
         y2 = row['g2']
 
-        return x1, x2, y1, y2
+        return torch.Tensor(x).float(), torch.Tensor([y1, y2]).long()
 
     def __len__(self):
         return self.data.shape[0]

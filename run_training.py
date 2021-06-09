@@ -2,16 +2,15 @@ import argparse
 import json
 from os.path import join
 
+from dataset.data_getter import get_data_loaders
 from DLBio import pt_training
 from DLBio.helpers import check_mkdir
 from DLBio.kwargs_translator import get_kwargs
 from DLBio.pt_train_printer import Printer
 from DLBio.pytorch_helpers import get_device, get_num_params, save_options
-from DLBio.train_interfaces import get_interface
 
 from helpers import load_model
-from data.data_getter import get_data_loaders
-
+from train_interfaces import get_interface
 
 PRINT_FREQUENCY = 50
 
@@ -29,8 +28,9 @@ def get_options():
     parser.add_argument('--bs', type=int, default=-1)
     parser.add_argument('--lr', type=float, default=-1)
     parser.add_argument('--wd', type=float, default=-1)
-    parser.add_argument('--input_dim', type=int, default=-1)
-    parser.add_argument('--output_dim', type=int, default=-1)
+    parser.add_argument('--mom', type=float, default=-1)
+    parser.add_argument('--in_dim', type=int, default=-1)
+    parser.add_argument('--out_dim', type=int, default=-1)
     parser.add_argument('--epochs', type=int, default=-1)
     parser.add_argument('--lr_steps', type=int, default=-1)
 
@@ -55,6 +55,8 @@ def get_options():
     # other
     parser.add_argument('--seed', type=int, default=0)
     parser.add_argument('--device', type=int, default=None)
+
+    parser.add_argument('--print_freq', type=int, default=PRINT_FREQUENCY)
 
     return parser.parse_args()
 
@@ -88,7 +90,8 @@ def run(options):
     optimizer = pt_training.get_optimizer(
         options.opt, model.parameters(),
         options.lr,
-        weight_decay=options.wd
+        weight_decay=options.wd,
+        momentum=options.mom,
     )
 
     if options.lr_steps > 0:

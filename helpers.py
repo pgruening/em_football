@@ -18,8 +18,8 @@ def load_model(options, device, strict=True, new_model_path=None,
         model_kwargs = get_kwargs(options.model_kw)
         return get_model(
             options.model_type,
-            options.input_dim,
-            options.output_dim,
+            options.in_dim,
+            options.out_dim,
             device,
             **model_kwargs
         )
@@ -38,3 +38,29 @@ def load_model(options, device, strict=True, new_model_path=None,
         map_location=map_location,
         from_par_gpu=from_par_gpu
     )
+
+
+def predict_needed_gpu_memory(options, *, input_shape, device, factor=2.1):
+    # changes to the options object here should not be saved to the actual object
+    options = copy.deepcopy(options)
+
+    if isinstance(options, dict):
+        # initialize a new model
+        options['model_path'] = None
+        options = dict_to_options(options)
+
+    if device is not None:
+        pt_training.set_device(device, verbose=False)
+
+    model = load_model(options, get_device())
+
+    torch.cuda.reset_max_memory_allocated()
+    for _ in range(3):
+        x = torch.rand(*input_shape).to(get_device())
+        model(x)
+
+    fwd_memory_used = torch.cuda.max_memory_allocated()
+    torch.cuda.empty_cache()
+
+    # return as MegaByte
+    return factor * fwd_memory_used / 1e6

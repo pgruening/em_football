@@ -6,18 +6,18 @@ from DLBio import kwargs_translator, pt_run_parallel
 from helpers import predict_needed_gpu_memory
 
 DEFAULT_KWARGS = {
-    'comment': 'first test',
     'lr': 0.01,
     'wd': 0.01,
     'mom': 0.,
     'bs': 128,
     'opt': 'Adam',
+    'nw': 0,
 
     'train_interface': 'MatchAndGoals',
 
     # model / ds specific params
-    'in_dim': 55,
-    'out_dim': -1,
+    'in_dim': 110,
+    'out_dim': 2,
 
     # scheduling
     'epochs': 20,
@@ -28,7 +28,7 @@ DEFAULT_KWARGS = {
 
     # model saving
     'sv_int': -1,
-    'early_stopping': None,
+    # 'early_stopping': None,
     'es_metric': 'val_loss',
 
 
@@ -36,9 +36,9 @@ DEFAULT_KWARGS = {
 # 12 10 2020
 
 DATASET_KWARGS = {
-    'year': 2020,
-    'month': 10,
-    'day': 12
+    'year': [2020],
+    'month': [10],
+    'day': [12]
 }
 
 
@@ -52,9 +52,13 @@ SEEDS = [42]
 
 
 LRS = [.1, .01, .001, .0001, .00001]
-OPTS = ['Adam', 'SGD', 'lamb', 'AdaDelta']
-WDS = [0., 0.1, 0.001, 0.0001, 0.00001]
-ANGLES = [0., 0.01, 0.05, 0.1, .2, .499]
+OPTS = ['Adam']
+WDS = [0., 0.1, 0.00001]
+FEAT_DIMS = [2, 3, 8, 32]
+
+#LRS = [.1]
+#OPTS = ['Adam']
+#WDS = [0.]
 
 
 class TrainingProcess(pt_run_parallel.ITrainingProcess):
@@ -75,7 +79,8 @@ def _run(param_generator):
         available_gpus=AVAILABLE_GPUS,
         log_file=join(
             BASE_FOLDER, 'parallel_train_log.txt'),
-        shuffle_params=True
+        shuffle_params=True,
+        max_num_processes=1
     )
 
 
@@ -91,11 +96,11 @@ def run():
 
 
 def _param_generator(default_kwargs, base_folder, seeds=SEEDS):
-    train_params = itertools.product(LRS, OPTS, WDS, ANGLES)
+    train_params = itertools.product(LRS, OPTS, WDS, FEAT_DIMS)
     ctr = 0
     for model in MODELS:
         for seed in seeds:
-            for lr, opt, wd, mxa in train_params:
+            for lr, opt, wd, fd in train_params:
                 output = copy.deepcopy(default_kwargs)
                 output['model_type'] = model
                 output['folder'] = join(base_folder, str(ctr).zfill(4))
@@ -105,8 +110,13 @@ def _param_generator(default_kwargs, base_folder, seeds=SEEDS):
                 output['opt'] = opt
                 output['wd'] = wd
 
-                model_kw = {'max_angle': [mxa]}
+                model_kw = {'feat_dim': [fd]}
                 output['model_kw'] = kwargs_translator.to_kwargs_str(model_kw)
+
+                output['ds_kwargs'] = copy.deepcopy(DATASET_KWARGS)
+                output['ds_kwargs'] = kwargs_translator.to_kwargs_str(
+                    output['ds_kwargs']
+                )
 
                 # add expected memory usage for bin-packing
                 output['mem_used'] = predict_needed_gpu_memory(

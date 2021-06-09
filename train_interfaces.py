@@ -27,28 +27,36 @@ class MatchAndGoals(ITrainInterface):
         self.beta = float(kwargs.get('beta', [1.0])[0])
 
     def train_step(self, sample):
-        team1, team2 = sample[0].to(self.d), sample[1].to(self.d)
-        goals1, goals2 = sample[2].to(self.d), sample[3].to(self.d)
+        teams, goals = sample[0].to(self.d), sample[1].to(self.d)
+        goals1 = goals[:, 0]
+        goals2 = goals[:, 1]
 
-        p1, p2 = self.model(team1, team2)
+        pred = self.model(teams)
+        p1 = pred[:, 0]
+        p2 = pred[:, 1]
 
         win = 100. * torch.relu(p1 - p2)
         draw = -200. * torch.abs(p1 - p2) + 100.
         loose = 100. * torch.relu(p2 - p1)
 
-        pred = torch.sigmoid(torch.stack([win, draw, loose], -1), -1)
+        pred = torch.softmax(torch.stack([win, draw, loose], -1), -1)
+        # to indices
         targets = torch.stack([
-            goals1 > 0, goals2, goals1 == goals1, goals2 > goals1
-        ], -1).float()
+            goals1 > goals2, goals1 == goals1, goals2 > goals1
+        ], -1).long().max(-1)[1]
 
         xent = self.xent_loss(pred, targets)
-        mse_1 = self.mse(goals1, p1)
-        mse_2 = self.mse(goals1, p2)
+        mse_1 = self.mse(goals1.float(), p1)
+        mse_2 = self.mse(goals2.float(), p2)
         loss = self.alpha * xent + self.beta * .5 * (mse_1 + mse_2)
+        #loss = self.alpha * xent
 
         assert not bool(torch.isnan(loss))
 
-        metrics = None
+        metrics = {
+            'mse': .5 * (mse_1 + mse_2).item(), 'xent': xent.item(),
+            'loss': loss.item()
+        }
         counters = None
         functions = {
             k: f.update(pred, targets) for k, f in self.functions.items()
