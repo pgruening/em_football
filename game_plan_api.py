@@ -2,6 +2,7 @@ import pandas as pd
 import config
 from DLBio.helpers import MyDataFrame
 import re
+from mdutils.mdutils import MdUtils
 
 
 class Team():
@@ -22,9 +23,9 @@ class Team():
         if scored > conceded:
             self.points += 3
         elif scored == conceded:
-            self.points = 1
+            self.points += 1
         else:
-            self.points = 0
+            self.points += 0
 
 
 class Group():
@@ -39,9 +40,9 @@ class Group():
         for x in self.teams:
             df.update({
                 'name': x.name,
+                'goals': x.goals_scored,
                 'diff': x.goals_scored - x.goals_conceded,
                 'points': x.points,
-                'goals': x.goals_scored
             })
 
         return df.get_df().sort_values(
@@ -50,7 +51,36 @@ class Group():
         )
 
 
-def ask_group(func):
+def run(func, path='result.md'):
+    all_games = MyDataFrame()
+    group_tables, all_games = ask_group(func, all_games)
+    all_games = ask_ko(func, group_tables, all_games)
+    all_games = all_games.get_df()
+
+    md_file = MdUtils(file_name=path, title='EM-2021 Results')
+    md_file.new_header(level=1, title=f'Groups')
+    for key, value in group_tables.items():
+        md_file.new_header(level=2, title=f'Group {key}')
+        md_file.new_paragraph(value.to_markdown())
+
+    md_file.new_header(level=2, title='All Matches')
+    md_file.new_paragraph(all_games.to_markdown())
+    md_file.create_md_file()
+
+
+def get_winner(func):
+    all_games = MyDataFrame()
+    group_tables, all_games = ask_group(func, all_games)
+    all_games = ask_ko(func, group_tables, all_games)
+    last_game = all_games.get_df().iloc[-1, :]
+    res = [int(x) for x in last_game['result'].split('-')]
+    if res[1] > res[0]:
+        return last_game['team2']
+    else:
+        return last_game['team1']
+
+
+def ask_group(func, all_games):
     group_games = pd.read_csv('group_games.csv')
 
     teams = {}
@@ -63,13 +93,20 @@ def ask_group(func):
         a, b = func(team1, team2)
         teams[team1].update(a, b)
         teams[team2].update(b, a)
+        all_games.update({
+            'team1': team1,
+            'team2': team2,
+            'result': f'{a}-{b}',
+            'type': f'group {teams[team1].group}'
+        })
 
     groups_ = {k: Group(k, teams) for k in config.GROUPS.keys()}
 
-    return {name: group.get_table() for name, group in groups_.items()}
+    group_tables = {name: group.get_table() for name, group in groups_.items()}
+    return group_tables, all_games
 
 
-def ask_ko(func, group_tables):
+def ask_ko(func, group_tables, all_games):
     ko_games = pd.read_csv('ko_games.csv')
     places_3rd = pd.read_csv('3rd_places.csv').set_index('best_3rd_places')
     played_games = []
@@ -86,16 +123,20 @@ def ask_ko(func, group_tables):
         else:
             team1, team2 = resolve_other(x1, x2, played_games)
 
-        a, b = func(team1, team2)
+        a, b = func(team1, team2, no_draws=True)
 
         played_games.append({
             'team1': team1, 'team2': team2,
             'type': row['game'], 'place': row['place'], 'result': [a, b]
         })
-        print(x1, x2)
-        print(played_games[-1])
+        all_games.update({
+            'team1': team1,
+            'team2': team2,
+            'result': f'{a}-{b}',
+            'type': row['game']
+        })
 
-    xxx = 0
+    return all_games
 
 
 def resolve_af(x1, x2, group_tables, places_3rd):
@@ -104,7 +145,7 @@ def resolve_af(x1, x2, group_tables, places_3rd):
         match = re.match(rgx, x)
         group = match.group(2).lower()
         assert pos == int(match.group(1))
-        return group_tables[group].iloc[pos, :]['name']
+        return group_tables[group].iloc[pos - 1, :]['name']
 
     def resolve_3rd_place(x1, x2, pos_1, pos_2, group_tables, places_3rd):
         a = x1 if pos_1 != 3 else x2
@@ -212,9 +253,7 @@ def rand_func(team1, team2, no_draws=False):
 
 def _test():
     group_tables = ask_group(rand_func)
-
-    def func(t1, t2): return rand_func(t1, t2, no_draws=True)
-    ask_ko(func, group_tables)
+    ask_ko(rand_func, group_tables)
 
 
 if __name__ == '__main__':
