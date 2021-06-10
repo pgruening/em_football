@@ -17,3 +17,16 @@ def get_data_loaders(dataset_type, batch_size, num_workers, **kwargs):
             ),
             'test': None
         }
+    if dataset_type == 'qualification_no_val':
+        val_after = {
+            'year': 2030,
+            'month': 1,
+            'day': 1,
+        }
+        return {
+            'train': ds_qualification.get_data_loader(
+                batch_size, num_workers, is_train=True, validation_after_date=val_after
+            ),
+            'val': None,
+            'test': None
+        }
