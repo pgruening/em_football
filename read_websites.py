@@ -47,6 +47,11 @@ def read_group_table(table):
         teams = x[2].text.split(' – ')
         tmp = get_date(x[0].text, x[1].text)
 
+        if teams[0] == 'Nordmazedonien':
+            teams[0] = 'Mazedonien'
+        if teams[1] == 'Nordmazedonien':
+            teams[1] = 'Mazedonien'
+
         tmp.update({'team1': teams[0], 'team2': teams[1]})
         df.update(tmp)
 
@@ -136,6 +141,36 @@ def read_qualification_results():
             df.update(tmp)
             tmp = None
 
+    path = 'EM Testspiele 2021 - Alle EURO 2020 Vorbereitungsspiele.html'
+    table = get_tables(path)[0]
+
+    def get_date(x):
+        rgx = r'(\d\d).(\d\d).(\d\d\d\d)_(\d\d):(\d\d)'
+        match = re.match(rgx, x)
+        return {
+            'day': int(match.group(1)),
+            'month': int(match.group(2)),
+            'year': int(match.group(3)),
+            'hour': int(match.group(4)),
+            'minute': int(match.group(5)),
+        }
+
+    for entry in table.findAll('tr'):
+        x = entry.findAll('td')
+        if len(x) < 2:
+            continue
+
+        tmp = get_date(x[0].text + '_' + x[1].text)
+        teams = x[2].text.split(' – ')
+        goals = x[3].text.split(':')
+        # read second line
+        tmp['team_1'] = teams[0]
+        tmp['team_2'] = teams[1]
+        tmp['g1'] = int(goals[0])
+        tmp['g2'] = int(goals[1])
+
+        df.update(tmp)
+
     df = df.get_df()
     df.to_csv('qualifying.csv')
 
@@ -149,6 +184,6 @@ def get_tables(path):
 
 
 if __name__ == '__main__':
-    create_em_match_table()
-    create_3rd_place_table()
+    # create_em_match_table()
+    # create_3rd_place_table()
     read_qualification_results()
