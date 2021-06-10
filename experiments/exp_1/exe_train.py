@@ -9,25 +9,26 @@ DEFAULT_KWARGS = {
     'lr': 0.01,
     'wd': 0.01,
     'mom': 0.,
-    'bs': 128,
+    'bs': 32,
     'opt': 'Adam',
     'nw': 0,
 
     'train_interface': 'MatchAndGoals',
 
     # model / ds specific params
-    'in_dim': 110,
+    'in_dim': 2 * 63,
     'out_dim': 2,
 
     # scheduling
-    'epochs': 20,
-    'lr_steps': 0,
+    'epochs': 120,
+    'lr_steps': 3,
 
     # dataset
-    'dataset': 'qualification',
+    'dataset': 'qualification_no_val',
+    # 'dataset': 'qualification',
 
     # model saving
-    'sv_int': -1,
+    'sv_int': 0,
     # 'early_stopping': None,
     'es_metric': 'val_loss',
 
@@ -38,23 +39,29 @@ DEFAULT_KWARGS = {
 DATASET_KWARGS = {
     'year': [2020],
     'month': [10],
-    'day': [12]
+    'day': [1]
 }
 
+TI_KWARGS = {
+    'alpha': [2.],
+    'beta': [1.],
+    'c0': [2.]
+}
 
 EXE_FILE = 'run_training.py'
 BASE_FOLDER = 'experiments/exp_1'
 
-MODELS = ['mlp']
+MODELS = ['gaussian']
 
 AVAILABLE_GPUS = [0]
 SEEDS = [42]
 
 
 LRS = [.1, .01, .001, .0001, .00001]
+#LRS = [.01, .001]
 OPTS = ['Adam']
-WDS = [0., 0.1, 0.00001]
-FEAT_DIMS = [2, 3, 8, 32]
+WDS = [0.]
+FEAT_DIMS = [2, 8, 16]
 
 #LRS = [.1]
 #OPTS = ['Adam']
@@ -80,7 +87,7 @@ def _run(param_generator):
         log_file=join(
             BASE_FOLDER, 'parallel_train_log.txt'),
         shuffle_params=True,
-        max_num_processes=1
+        max_num_processes=5
     )
 
 
@@ -116,6 +123,11 @@ def _param_generator(default_kwargs, base_folder, seeds=SEEDS):
                 output['ds_kwargs'] = copy.deepcopy(DATASET_KWARGS)
                 output['ds_kwargs'] = kwargs_translator.to_kwargs_str(
                     output['ds_kwargs']
+                )
+
+                output['ti_kwargs'] = copy.deepcopy(TI_KWARGS)
+                output['ti_kwargs'] = kwargs_translator.to_kwargs_str(
+                    output['ti_kwargs']
                 )
 
                 # add expected memory usage for bin-packing
