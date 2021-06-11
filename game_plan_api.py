@@ -66,6 +66,14 @@ def run(func, path='result.md'):
     md_file.new_header(level=2, title='All Matches')
     md_file.new_paragraph(all_games.to_markdown())
     md_file.create_md_file()
+    print(f'Created file: {path}')
+
+    last_game = all_games.iloc[-1, :]
+    res = [int(x) for x in last_game['result'].split('-')]
+    if res[1] > res[0]:
+        print('Winner: ' + last_game['team2'])
+    else:
+        print('Winner: ' + last_game['team1'])
 
 
 def get_winner(func):
