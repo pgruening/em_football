@@ -98,7 +98,6 @@ class Model(nn.Module):
             y1 += a
             y2 += b
             if ctr > 100:
-                print('tie found')
                 if np.random.rand() < .5:
                     y1 += 1
                 else:
