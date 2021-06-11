@@ -5,3 +5,4 @@
 **.pt
 **.txt
 **/.ipynb_checkpoints*
+!used_model/*
