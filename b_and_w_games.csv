@@ -1,0 +1,2315 @@
+,day,month,year,team1,goal1,goal2,team2
+0,15,11,06,Italy,1,1,Turkey
+1,20,11,02,Italy,1,1,Turkey
+2,11,06,00,Turkey,1,2,Italy
+3,27,03,63,Turkey,0,1,Italy
+4,02,12,62,Italy,6,0,Turkey
+5,03,06,21,Turkey,2,0,Moldova
+6,31,05,21,Turkey,0,0,Guinea
+7,27,05,21,Turkey,2,1,Azerbaijan
+8,30,03,21,Turkey,3,3,Latvia
+9,27,03,21,Norway,0,3,Turkey
+10,24,03,21,Turkey,4,2,Netherlands
+11,18,11,20,Hungary,2,0,Turkey
+12,15,11,20,Turkey,3,2,Russia
+13,11,11,20,Turkey,3,3,Croatia
+14,14,10,20,Turkey,2,2,Serbia
+15,11,10,20,Russia,1,1,Turkey
+16,07,10,20,Germany,3,3,Turkey
+17,06,09,20,Serbia,0,0,Turkey
+18,03,09,20,Turkey,0,1,Hungary
+19,17,11,19,Andorra,0,2,Turkey
+20,14,11,19,Turkey,0,0,Iceland
+21,14,10,19,France,1,1,Turkey
+22,11,10,19,Turkey,1,0,Albania
+23,10,09,19,Moldova,0,4,Turkey
+24,07,09,19,Turkey,1,0,Andorra
+25,11,06,19,Iceland,2,1,Turkey
+26,08,06,19,Turkey,2,0,France
+27,02,06,19,Turkey,2,0,Uzbekistan
+28,30,05,19,Turkey,2,1,Greece
+29,25,03,19,Turkey,4,0,Moldova
+30,22,03,19,Albania,0,2,Turkey
+31,20,11,18,Turkey,0,0,Ukraine
+32,17,11,18,Turkey,0,1,Sweden
+33,14,10,18,Russia,2,0,Turkey
+34,11,10,18,Turkey,0,0,Bosnia & Herzegovina
+35,04,06,21,Italy,4,0,Czech Republic
+36,28,05,21,Italy,7,0,San Marino
+37,31,03,21,Lithuania,0,2,Italy
+38,28,03,21,Bulgaria,0,2,Italy
+39,25,03,21,Italy,2,0,Northern Ireland
+40,18,11,20,Bosnia & Herzegovina,0,2,Italy
+41,15,11,20,Italy,2,0,Poland
+42,11,11,20,Italy,4,0,Estonia
+43,14,10,20,Italy,1,1,Netherlands
+44,11,10,20,Poland,0,0,Italy
+45,07,10,20,Italy,6,0,Moldova
+46,07,09,20,Netherlands,0,1,Italy
+47,04,09,20,Italy,1,1,Bosnia & Herzegovina
+48,18,11,19,Italy,9,1,Armenia
+49,15,11,19,Bosnia & Herzegovina,0,3,Italy
+50,15,10,19,Liechtenstein,0,5,Italy
+51,12,10,19,Italy,2,0,Greece
+52,08,09,19,Finland,1,2,Italy
+53,05,09,19,Armenia,1,3,Italy
+54,11,06,19,Italy,2,1,Bosnia & Herzegovina
+55,08,06,19,Greece,0,3,Italy
+56,26,03,19,Italy,6,0,Liechtenstein
+57,23,03,19,Italy,2,0,Finland
+58,20,11,18,Italy,1,0,USA
+59,17,11,18,Italy,0,0,Portugal
+60,14,10,18,Poland,0,1,Italy
+61,10,10,18,Italy,1,1,Ukraine
+62,10,09,18,Portugal,1,0,Italy
+63,07,09,18,Italy,1,1,Poland
+64,04,06,18,Italy,1,1,Netherlands
+65,07,10,11,Wales,2,0,Switzerland
+66,12,10,10,Switzerland,4,1,Wales
+67,09,10,99,Wales,0,2,Switzerland
+68,31,03,99,Switzerland,2,0,Wales
+69,05,06,21,Wales,0,0,Albania
+70,02,06,21,France,3,0,Wales
+71,30,03,21,Wales,1,0,Czech Republic
+72,27,03,21,Wales,1,0,Mexico
+73,24,03,21,Belgium,3,1,Wales
+74,18,11,20,Wales,3,1,Finland
+75,15,11,20,Wales,1,0,Ireland
+76,12,11,20,Wales,0,0,USA
+77,14,10,20,Bulgaria,0,1,Wales
+78,11,10,20,Ireland,0,0,Wales
+79,08,10,20,England,3,0,Wales
+80,06,09,20,Wales,1,0,Bulgaria
+81,03,09,20,Finland,0,1,Wales
+82,19,11,19,Wales,2,0,Hungary
+83,16,11,19,Azerbaijan,0,2,Wales
+84,13,10,19,Wales,1,1,Croatia
+85,10,10,19,Slovakia,1,1,Wales
+86,09,09,19,Wales,1,0,Belarus
+87,06,09,19,Wales,2,1,Azerbaijan
+88,11,06,19,Hungary,1,0,Wales
+89,08,06,19,Croatia,2,1,Wales
+90,24,03,19,Wales,1,0,Slovakia
+91,20,03,19,Wales,1,0,Trinidad and Tobago
+92,20,11,18,Albania,1,0,Wales
+93,16,11,18,Wales,1,2,Denmark
+94,16,10,18,Ireland,0,1,Wales
+95,11,10,18,Wales,1,4,Spain
+96,09,09,18,Denmark,2,0,Wales
+97,06,09,18,Wales,4,1,Ireland
+98,29,05,18,Mexico,0,0,Wales
+99,03,06,21,Switzerland,7,0,Liechtenstein
+100,30,05,21,Switzerland,2,1,USA
+101,31,03,21,Switzerland,3,2,Finland
+102,28,03,21,Switzerland,1,0,Lithuania
+103,25,03,21,Bulgaria,1,3,Switzerland
+104,14,11,20,Switzerland,1,1,Spain
+105,11,11,20,Belgium,2,1,Switzerland
+106,13,10,20,Germany,3,3,Switzerland
+107,10,10,20,Spain,1,0,Switzerland
+108,07,10,20,Switzerland,1,2,Croatia
+109,06,09,20,Switzerland,1,1,Germany
+110,03,09,20,Ukraine,2,1,Switzerland
+111,18,11,19,Gibraltar,1,6,Switzerland
+112,15,11,19,Switzerland,1,0,Georgia
+113,15,10,19,Switzerland,2,0,Ireland
+114,12,10,19,Denmark,1,0,Switzerland
+115,08,09,19,Switzerland,4,0,Gibraltar
+116,05,09,19,Ireland,1,1,Switzerland
+117,09,06,19,Switzerland,5,6,England
+118,05,06,19,Portugal,3,1,Switzerland
+119,26,03,19,Switzerland,3,3,Denmark
+120,23,03,19,Georgia,0,2,Switzerland
+121,18,11,18,Switzerland,5,2,Belgium
+122,14,11,18,Switzerland,0,1,Qatar
+123,15,10,18,Iceland,1,2,Switzerland
+124,12,10,18,Belgium,2,1,Switzerland
+125,11,09,18,England,1,0,Switzerland
+126,08,09,18,Switzerland,6,0,Iceland
+127,03,07,18,Sweden,1,0,Switzerland
+128,15,11,11,Denmark,2,1,Finland
+129,02,06,05,Finland,0,1,Denmark
+130,20,08,03,Denmark,1,1,Finland
+131,29,04,87,Finland,0,1,Denmark
+132,29,10,86,Denmark,1,0,Finland
+133,06,06,21,Denmark,2,0,Bosnia & Herzegovina
+134,02,06,21,Germany,1,1,Denmark
+135,31,03,21,Austria,0,4,Denmark
+136,28,03,21,Denmark,8,0,Moldova
+137,25,03,21,Israel,0,2,Denmark
+138,18,11,20,Belgium,4,2,Denmark
+139,15,11,20,Denmark,2,1,Iceland
+140,11,11,20,Denmark,2,0,Sweden
+141,14,10,20,England,0,1,Denmark
+142,11,10,20,Iceland,0,3,Denmark
+143,07,10,20,Denmark,4,0,Faroe Islands
+144,08,09,20,Denmark,0,0,England
+145,05,09,20,Denmark,0,2,Belgium
+146,18,11,19,Ireland,1,1,Denmark
+147,15,11,19,Denmark,6,0,Gibraltar
+148,15,10,19,Denmark,4,0,Luxembourg
+149,12,10,19,Denmark,1,0,Switzerland
+150,08,09,19,Georgia,0,0,Denmark
+151,05,09,19,Gibraltar,0,6,Denmark
+152,10,06,19,Denmark,5,1,Georgia
+153,07,06,19,Denmark,1,1,Ireland
+154,26,03,19,Switzerland,3,3,Denmark
+155,21,03,19,Kosovo,2,2,Denmark
+156,19,11,18,Denmark,0,0,Ireland
+157,16,11,18,Wales,1,2,Denmark
+158,16,10,18,Denmark,2,0,Austria
+159,13,10,18,Ireland,0,0,Denmark
+160,09,09,18,Denmark,2,0,Wales
+161,05,09,18,Slovakia,3,0,Denmark
+162,01,07,18,Croatia,3,2,Denmark
+163,04,06,21,Finland,0,1,Estonia
+164,29,05,21,Sweden,2,0,Finland
+165,31,03,21,Switzerland,3,2,Finland
+166,28,03,21,Ukraine,1,1,Finland
+167,24,03,21,Finland,2,2,Bosnia & Herzegovina
+168,18,11,20,Wales,3,1,Finland
+169,15,11,20,Bulgaria,1,2,Finland
+170,11,11,20,France,0,2,Finland
+171,14,10,20,Finland,1,0,Ireland
+172,11,10,20,Finland,2,0,Bulgaria
+173,07,10,20,Poland,5,1,Finland
+174,06,09,20,Ireland,0,1,Finland
+175,03,09,20,Finland,0,1,Wales
+176,18,11,19,Greece,2,1,Finland
+177,15,11,19,Finland,3,0,Liechtenstein
+178,15,10,19,Finland,3,0,Armenia
+179,12,10,19,Bosnia & Herzegovina,4,1,Finland
+180,08,09,19,Finland,1,2,Italy
+181,05,09,19,Finland,1,0,Greece
+182,11,06,19,Liechtenstein,0,2,Finland
+183,08,06,19,Finland,2,0,Bosnia & Herzegovina
+184,26,03,19,Armenia,0,2,Finland
+185,23,03,19,Italy,2,0,Finland
+186,11,01,19,Finland,1,2,Estonia
+187,08,01,19,Sweden,0,1,Finland
+188,18,11,18,Hungary,2,0,Finland
+189,15,11,18,Greece,1,0,Finland
+190,15,10,18,Finland,2,0,Greece
+191,12,10,18,Estonia,0,1,Finland
+192,11,09,18,Finland,1,0,Estonia
+193,16,11,19,Russia,1,4,Belgium
+194,21,03,19,Belgium,3,1,Russia
+195,28,03,17,Russia,3,3,Belgium
+196,22,06,14,Belgium,1,0,Russia
+197,17,11,10,Russia,0,2,Belgium
+198,14,06,02,Belgium,3,2,Russia
+199,06,06,21,Belgium,1,0,Croatia
+200,03,06,21,Belgium,1,1,Greece
+201,30,03,21,Belgium,8,0,Belarus
+202,27,03,21,Czech Republic,1,1,Belgium
+203,24,03,21,Belgium,3,1,Wales
+204,18,11,20,Belgium,4,2,Denmark
+205,15,11,20,Belgium,2,0,England
+206,11,11,20,Belgium,2,1,Switzerland
+207,14,10,20,Iceland,1,2,Belgium
+208,11,10,20,England,2,1,Belgium
+209,08,10,20,Belgium,1,1,Ivory Coast
+210,08,09,20,Belgium,5,1,Iceland
+211,05,09,20,Denmark,0,2,Belgium
+212,19,11,19,Belgium,6,1,Cyprus
+213,16,11,19,Russia,1,4,Belgium
+214,13,10,19,Kazakhstan,0,2,Belgium
+215,10,10,19,Belgium,9,0,San Marino
+216,09,09,19,Scotland,0,4,Belgium
+217,06,09,19,San Marino,0,4,Belgium
+218,11,06,19,Belgium,3,0,Scotland
+219,08,06,19,Belgium,3,0,Kazakhstan
+220,24,03,19,Cyprus,0,2,Belgium
+221,21,03,19,Belgium,3,1,Russia
+222,18,11,18,Switzerland,5,2,Belgium
+223,15,11,18,Belgium,2,0,Iceland
+224,16,10,18,Belgium,1,1,Netherlands
+225,12,10,18,Belgium,2,1,Switzerland
+226,11,09,18,Iceland,0,3,Belgium
+227,07,09,18,Scotland,0,4,Belgium
+228,14,07,18,Belgium,2,0,England
+229,05,06,21,Russia,1,0,Bulgaria
+230,01,06,21,Poland,1,1,Russia
+231,30,03,21,Slovakia,2,1,Russia
+232,27,03,21,Russia,2,1,Slovenia
+233,24,03,21,Malta,1,3,Russia
+234,18,11,20,Serbia,5,0,Russia
+235,15,11,20,Turkey,3,2,Russia
+236,12,11,20,Moldova,0,0,Russia
+237,14,10,20,Russia,0,0,Hungary
+238,11,10,20,Russia,1,1,Turkey
+239,08,10,20,Russia,1,2,Sweden
+240,06,09,20,Hungary,2,3,Russia
+241,03,09,20,Russia,3,1,Serbia
+242,19,11,19,San Marino,0,5,Russia
+243,16,11,19,Russia,1,4,Belgium
+244,13,10,19,Cyprus,0,5,Russia
+245,10,10,19,Russia,4,0,Scotland
+246,09,09,19,Russia,1,0,Kazakhstan
+247,06,09,19,Scotland,1,2,Russia
+248,11,06,19,Russia,1,0,Cyprus
+249,08,06,19,Russia,9,0,San Marino
+250,24,03,19,Kazakhstan,0,4,Russia
+251,21,03,19,Belgium,3,1,Russia
+252,20,11,18,Sweden,2,0,Russia
+253,15,11,18,Germany,3,0,Russia
+254,14,10,18,Russia,2,0,Turkey
+255,11,10,18,Russia,0,0,Sweden
+256,10,09,18,Russia,5,1,Czech Republic
+257,07,09,18,Turkey,1,2,Russia
+258,07,07,18,Russia,3,4,Croatia
+259,18,11,18,England,2,1,Croatia
+260,12,10,18,Croatia,0,0,England
+261,11,07,18,Croatia,2,1,England
+262,09,09,09,England,5,1,Croatia
+263,10,09,08,Croatia,1,4,England
+264,21,11,07,England,2,3,Croatia
+265,06,06,21,England,1,0,Romania
+266,02,06,21,England,1,0,Austria
+267,31,03,21,England,2,1,Poland
+268,28,03,21,Albania,0,2,England
+269,25,03,21,England,5,0,San Marino
+270,18,11,20,England,4,0,Iceland
+271,15,11,20,Belgium,2,0,England
+272,12,11,20,England,3,0,Ireland
+273,14,10,20,England,0,1,Denmark
+274,11,10,20,England,2,1,Belgium
+275,08,10,20,England,3,0,Wales
+276,08,09,20,Denmark,0,0,England
+277,05,09,20,Iceland,0,1,England
+278,17,11,19,Kosovo,0,4,England
+279,14,11,19,England,7,0,Montenegro
+280,14,10,19,Bulgaria,0,6,England
+281,11,10,19,Czech Republic,2,1,England
+282,10,09,19,England,5,3,Kosovo
+283,07,09,19,England,4,0,Bulgaria
+284,09,06,19,Switzerland,5,6,England
+285,06,06,19,Netherlands,3,1,England
+286,25,03,19,Montenegro,1,5,England
+287,22,03,19,England,5,0,Czech Republic
+288,18,11,18,England,2,1,Croatia
+289,15,11,18,England,3,0,USA
+290,15,10,18,Spain,2,3,England
+291,12,10,18,Croatia,0,0,England
+292,11,09,18,England,1,0,Switzerland
+293,08,09,18,England,1,2,Spain
+294,14,07,18,Belgium,2,0,England
+295,06,06,21,Belgium,1,0,Croatia
+296,01,06,21,Croatia,1,1,Armenia
+297,30,03,21,Croatia,3,0,Malta
+298,27,03,21,Croatia,1,0,Cyprus
+299,24,03,21,Slovenia,1,0,Croatia
+300,17,11,20,Croatia,2,3,Portugal
+301,14,11,20,Sweden,2,1,Croatia
+302,11,11,20,Turkey,3,3,Croatia
+303,14,10,20,Croatia,1,2,France
+304,11,10,20,Croatia,2,1,Sweden
+305,07,10,20,Switzerland,1,2,Croatia
+306,08,09,20,France,4,2,Croatia
+307,05,09,20,Portugal,4,1,Croatia
+308,19,11,19,Croatia,2,1,Georgia
+309,16,11,19,Croatia,3,1,Slovakia
+310,13,10,19,Wales,1,1,Croatia
+311,10,10,19,Croatia,3,0,Hungary
+312,09,09,19,Azerbaijan,1,1,Croatia
+313,06,09,19,Slovakia,0,4,Croatia
+314,11,06,19,Croatia,1,2,Tunisia
+315,08,06,19,Croatia,2,1,Wales
+316,24,03,19,Hungary,2,1,Croatia
+317,21,03,19,Croatia,2,1,Azerbaijan
+318,18,11,18,England,2,1,Croatia
+319,15,11,18,Croatia,3,2,Spain
+320,15,10,18,Croatia,2,1,Jordan
+321,12,10,18,Croatia,0,0,England
+322,11,09,18,Spain,6,0,Croatia
+323,06,09,18,Portugal,1,1,Croatia
+324,15,07,18,France,4,2,Croatia
+325,16,11,19,Austria,2,1,North Macedonia
+326,10,06,19,North Macedonia,1,4,Austria
+327,06,06,21,Austria,0,0,Slovakia
+328,02,06,21,England,1,0,Austria
+329,31,03,21,Austria,0,4,Denmark
+330,28,03,21,Austria,3,1,Faroe Islands
+331,25,03,21,Scotland,2,2,Austria
+332,18,11,20,Austria,1,1,Norway
+333,15,11,20,Austria,2,1,Northern Ireland
+334,11,11,20,Luxembourg,0,3,Austria
+335,14,10,20,Romania,0,1,Austria
+336,11,10,20,Northern Ireland,0,1,Austria
+337,07,10,20,Austria,2,1,Greece
+338,07,09,20,Austria,2,3,Romania
+339,04,09,20,Norway,1,2,Austria
+340,19,11,19,Latvia,1,0,Austria
+341,16,11,19,Austria,2,1,North Macedonia
+342,13,10,19,Slovenia,0,1,Austria
+343,10,10,19,Austria,3,1,Israel
+344,09,09,19,Poland,0,0,Austria
+345,06,09,19,Austria,6,0,Latvia
+346,10,06,19,North Macedonia,1,4,Austria
+347,07,06,19,Austria,1,0,Slovenia
+348,24,03,19,Israel,4,2,Austria
+349,21,03,19,Austria,0,1,Poland
+350,18,11,18,Northern Ireland,1,2,Austria
+351,15,11,18,Austria,0,0,Bosnia & Herzegovina
+352,16,10,18,Denmark,2,0,Austria
+353,12,10,18,Austria,1,0,Northern Ireland
+354,11,09,18,Bosnia & Herzegovina,1,0,Austria
+355,06,09,18,Austria,2,0,Sweden
+356,10,06,18,Austria,0,3,Brazil
+357,04,06,21,North Macedonia,4,0,Kazakhstan
+358,01,06,21,North Macedonia,1,1,Slovenia
+359,31,03,21,Germany,1,2,North Macedonia
+360,28,03,21,North Macedonia,5,0,Liechtenstein
+361,25,03,21,Romania,3,2,North Macedonia
+362,18,11,20,Armenia,1,0,North Macedonia
+363,15,11,20,North Macedonia,2,1,Estonia
+364,12,11,20,Georgia,0,1,North Macedonia
+365,14,10,20,North Macedonia,1,1,Georgia
+366,11,10,20,Estonia,3,3,North Macedonia
+367,08,10,20,North Macedonia,2,1,Kosovo
+368,08,09,20,Georgia,1,1,North Macedonia
+369,05,09,20,North Macedonia,2,1,Armenia
+370,19,11,19,North Macedonia,1,0,Israel
+371,16,11,19,Austria,2,1,North Macedonia
+372,13,10,19,Poland,2,0,North Macedonia
+373,10,10,19,North Macedonia,2,1,Slovenia
+374,09,09,19,Latvia,0,2,North Macedonia
+375,05,09,19,Israel,1,1,North Macedonia
+376,10,06,19,North Macedonia,1,4,Austria
+377,07,06,19,North Macedonia,0,1,Poland
+378,24,03,19,Slovenia,1,1,North Macedonia
+379,21,03,19,North Macedonia,3,1,Latvia
+380,19,11,18,North Macedonia,4,0,Gibraltar
+381,16,11,18,Liechtenstein,0,2,North Macedonia
+382,16,10,18,Armenia,4,0,North Macedonia
+383,13,10,18,North Macedonia,4,1,Liechtenstein
+384,09,09,18,North Macedonia,2,0,Armenia
+385,06,09,18,Gibraltar,0,2,North Macedonia
+386,27,03,18,Azerbaijan,1,1,North Macedonia
+387,11,08,10,Ukraine,1,1,Netherlands
+388,24,05,08,Netherlands,3,0,Ukraine
+389,06,06,21,Netherlands,3,0,Georgia
+390,02,06,21,Netherlands,2,2,Scotland
+391,30,03,21,Gibraltar,0,7,Netherlands
+392,27,03,21,Netherlands,2,0,Latvia
+393,24,03,21,Turkey,4,2,Netherlands
+394,18,11,20,Poland,1,2,Netherlands
+395,15,11,20,Netherlands,3,1,Bosnia & Herzegovina
+396,11,11,20,Netherlands,1,1,Spain
+397,14,10,20,Italy,1,1,Netherlands
+398,11,10,20,Bosnia & Herzegovina,0,0,Netherlands
+399,07,10,20,Netherlands,0,1,Mexico
+400,07,09,20,Netherlands,0,1,Italy
+401,04,09,20,Netherlands,1,0,Poland
+402,19,11,19,Netherlands,5,0,Estonia
+403,16,11,19,Northern Ireland,0,0,Netherlands
+404,13,10,19,Belarus,1,2,Netherlands
+405,10,10,19,Netherlands,3,1,Northern Ireland
+406,09,09,19,Estonia,0,4,Netherlands
+407,06,09,19,Germany,2,4,Netherlands
+408,09,06,19,Portugal,1,0,Netherlands
+409,06,06,19,Netherlands,3,1,England
+410,24,03,19,Netherlands,2,3,Germany
+411,21,03,19,Netherlands,4,0,Belarus
+412,19,11,18,Germany,2,2,Netherlands
+413,16,11,18,Netherlands,2,0,France
+414,16,10,18,Belgium,1,1,Netherlands
+415,13,10,18,Netherlands,3,0,Germany
+416,09,09,18,France,2,1,Netherlands
+417,06,09,18,Netherlands,2,1,Peru
+418,04,06,18,Italy,1,1,Netherlands
+419,07,06,21,Ukraine,4,0,Cyprus
+420,03,06,21,Ukraine,1,0,Northern Ireland
+421,23,05,21,Ukraine,1,1,Bahrain
+422,31,03,21,Ukraine,1,1,Kazakhstan
+423,28,03,21,Ukraine,1,1,Finland
+424,24,03,21,France,1,1,Ukraine
+425,14,11,20,Germany,3,1,Ukraine
+426,11,11,20,Poland,2,0,Ukraine
+427,13,10,20,Ukraine,1,0,Spain
+428,10,10,20,Ukraine,1,2,Germany
+429,07,10,20,France,7,1,Ukraine
+430,06,09,20,Spain,4,0,Ukraine
+431,03,09,20,Ukraine,2,1,Switzerland
+432,17,11,19,Serbia,2,2,Ukraine
+433,14,11,19,Ukraine,1,0,Estonia
+434,14,10,19,Ukraine,2,1,Portugal
+435,11,10,19,Ukraine,2,0,Lithuania
+436,10,09,19,Ukraine,2,2,Nigeria
+437,07,09,19,Lithuania,0,3,Ukraine
+438,10,06,19,Ukraine,1,0,Luxembourg
+439,07,06,19,Ukraine,5,0,Serbia
+440,25,03,19,Luxembourg,1,2,Ukraine
+441,22,03,19,Portugal,0,0,Ukraine
+442,20,11,18,Turkey,0,0,Ukraine
+443,16,11,18,Slovakia,4,1,Ukraine
+444,16,10,18,Ukraine,1,0,Czech Republic
+445,10,10,18,Italy,1,1,Ukraine
+446,09,09,18,Ukraine,1,0,Slovakia
+447,06,09,18,Czech Republic,1,2,Ukraine
+448,14,10,20,Scotland,1,0,Czech Republic
+449,07,09,20,Czech Republic,1,2,Scotland
+450,24,03,16,Czech Republic,0,1,Scotland
+451,03,09,11,Scotland,2,2,Czech Republic
+452,08,10,10,Czech Republic,1,0,Scotland
+453,03,03,10,Scotland,1,0,Czech Republic
+454,06,06,21,Luxembourg,0,1,Scotland
+455,02,06,21,Netherlands,2,2,Scotland
+456,31,03,21,Scotland,4,0,Faroe Islands
+457,28,03,21,Israel,1,1,Scotland
+458,25,03,21,Scotland,2,2,Austria
+459,18,11,20,Israel,1,0,Scotland
+460,15,11,20,Slovakia,1,0,Scotland
+461,12,11,20,Serbia,4,5,Scotland
+462,14,10,20,Scotland,1,0,Czech Republic
+463,11,10,20,Scotland,1,0,Slovakia
+464,08,10,20,Scotland,5,3,Israel
+465,07,09,20,Czech Republic,1,2,Scotland
+466,04,09,20,Scotland,1,1,Israel
+467,19,11,19,Scotland,3,1,Kazakhstan
+468,16,11,19,Cyprus,1,2,Scotland
+469,13,10,19,Scotland,6,0,San Marino
+470,10,10,19,Russia,4,0,Scotland
+471,09,09,19,Scotland,0,4,Belgium
+472,06,09,19,Scotland,1,2,Russia
+473,11,06,19,Belgium,3,0,Scotland
+474,08,06,19,Scotland,2,1,Cyprus
+475,24,03,19,San Marino,0,2,Scotland
+476,21,03,19,Kazakhstan,3,0,Scotland
+477,20,11,18,Scotland,3,2,Israel
+478,17,11,18,Albania,0,4,Scotland
+479,14,10,18,Scotland,1,3,Portugal
+480,11,10,18,Israel,2,1,Scotland
+481,10,09,18,Scotland,2,0,Albania
+482,07,09,18,Scotland,0,4,Belgium
+483,03,06,18,Mexico,1,0,Scotland
+484,08,06,21,Czech Republic,3,1,Albania
+485,04,06,21,Italy,4,0,Czech Republic
+486,30,03,21,Wales,1,0,Czech Republic
+487,27,03,21,Czech Republic,1,1,Belgium
+488,24,03,21,Estonia,2,6,Czech Republic
+489,18,11,20,Czech Republic,2,0,Slovakia
+490,15,11,20,Czech Republic,1,0,Israel
+491,11,11,20,Germany,1,0,Czech Republic
+492,14,10,20,Scotland,1,0,Czech Republic
+493,11,10,20,Israel,1,2,Czech Republic
+494,07,10,20,Cyprus,1,2,Czech Republic
+495,07,09,20,Czech Republic,1,2,Scotland
+496,04,09,20,Slovakia,1,3,Czech Republic
+497,17,11,19,Bulgaria,1,0,Czech Republic
+498,14,11,19,Czech Republic,2,1,Kosovo
+499,14,10,19,Czech Republic,2,3,Northern Ireland
+500,11,10,19,Czech Republic,2,1,England
+501,10,09,19,Montenegro,0,3,Czech Republic
+502,07,09,19,Kosovo,2,1,Czech Republic
+503,10,06,19,Czech Republic,3,0,Montenegro
+504,07,06,19,Czech Republic,2,1,Bulgaria
+505,26,03,19,Czech Republic,1,3,Brazil
+506,22,03,19,England,5,0,Czech Republic
+507,19,11,18,Czech Republic,1,0,Slovakia
+508,15,11,18,Poland,0,1,Czech Republic
+509,16,10,18,Ukraine,1,0,Czech Republic
+510,13,10,18,Slovakia,1,2,Czech Republic
+511,10,09,18,Russia,5,1,Czech Republic
+512,06,09,18,Czech Republic,1,2,Ukraine
+513,06,06,18,Czech Republic,1,0,Nigeria
+514,15,11,13,Poland,0,2,Slovakia
+515,26,05,12,Poland,1,0,Slovakia
+516,14,10,09,Poland,0,1,Slovakia
+517,15,10,08,Slovakia,2,1,Poland
+518,07,02,07,Poland,2,2,Slovakia
+519,11,10,95,Slovakia,4,1,Poland
+520,08,06,21,Poland,2,2,Iceland
+521,01,06,21,Poland,1,1,Russia
+522,31,03,21,England,2,1,Poland
+523,28,03,21,Poland,3,0,Andorra
+524,25,03,21,Hungary,3,3,Poland
+525,18,11,20,Poland,1,2,Netherlands
+526,15,11,20,Italy,2,0,Poland
+527,11,11,20,Poland,2,0,Ukraine
+528,14,10,20,Poland,3,0,Bosnia & Herzegovina
+529,11,10,20,Poland,0,0,Italy
+530,07,10,20,Poland,5,1,Finland
+531,07,09,20,Bosnia & Herzegovina,1,2,Poland
+532,04,09,20,Netherlands,1,0,Poland
+533,19,11,19,Poland,3,2,Slovenia
+534,16,11,19,Israel,1,2,Poland
+535,13,10,19,Poland,2,0,North Macedonia
+536,10,10,19,Latvia,0,3,Poland
+537,09,09,19,Poland,0,0,Austria
+538,06,09,19,Slovenia,2,0,Poland
+539,10,06,19,Poland,4,0,Israel
+540,07,06,19,North Macedonia,0,1,Poland
+541,24,03,19,Poland,2,0,Latvia
+542,21,03,19,Austria,0,1,Poland
+543,20,11,18,Portugal,1,1,Poland
+544,15,11,18,Poland,0,1,Czech Republic
+545,14,10,18,Poland,0,1,Italy
+546,11,10,18,Poland,2,3,Portugal
+547,11,09,18,Poland,1,1,Ireland
+548,07,09,18,Italy,1,1,Poland
+549,28,06,18,Japan,0,1,Poland
+550,06,06,21,Austria,0,0,Slovakia
+551,01,06,21,Slovakia,1,1,Bulgaria
+552,30,03,21,Slovakia,2,1,Russia
+553,27,03,21,Slovakia,2,2,Malta
+554,24,03,21,Cyprus,0,0,Slovakia
+555,18,11,20,Czech Republic,2,0,Slovakia
+556,15,11,20,Slovakia,1,0,Scotland
+557,12,11,20,Northern Ireland,1,2,Slovakia
+558,14,10,20,Slovakia,2,3,Israel
+559,11,10,20,Scotland,1,0,Slovakia
+560,08,10,20,Slovakia,4,2,Ireland
+561,07,09,20,Israel,1,1,Slovakia
+562,04,09,20,Slovakia,1,3,Czech Republic
+563,19,11,19,Slovakia,2,0,Azerbaijan
+564,16,11,19,Croatia,3,1,Slovakia
+565,13,10,19,Slovakia,1,1,Paraguay
+566,10,10,19,Slovakia,1,1,Wales
+567,09,09,19,Hungary,1,2,Slovakia
+568,06,09,19,Slovakia,0,4,Croatia
+569,11,06,19,Azerbaijan,1,5,Slovakia
+570,07,06,19,Slovakia,5,1,Jordan
+571,24,03,19,Wales,1,0,Slovakia
+572,21,03,19,Slovakia,2,0,Hungary
+573,19,11,18,Czech Republic,1,0,Slovakia
+574,16,11,18,Slovakia,4,1,Ukraine
+575,16,10,18,Sweden,1,1,Slovakia
+576,13,10,18,Slovakia,1,2,Czech Republic
+577,09,09,18,Ukraine,1,0,Slovakia
+578,05,09,18,Slovakia,3,0,Denmark
+579,04,06,18,Slovakia,1,2,Morocco
+580,15,10,19,Sweden,1,1,Spain
+581,10,06,19,Spain,3,0,Sweden
+582,14,06,08,Sweden,1,2,Spain
+583,17,11,07,Spain,3,0,Sweden
+584,07,10,06,Sweden,2,0,Spain
+585,11,06,78,Spain,1,0,Sweden
+586,04,06,21,Spain,0,0,Portugal
+587,31,03,21,Spain,3,1,Kosovo
+588,28,03,21,Georgia,1,2,Spain
+589,25,03,21,Spain,1,1,Greece
+590,17,11,20,Spain,6,0,Germany
+591,14,11,20,Switzerland,1,1,Spain
+592,11,11,20,Netherlands,1,1,Spain
+593,13,10,20,Ukraine,1,0,Spain
+594,10,10,20,Spain,1,0,Switzerland
+595,07,10,20,Portugal,0,0,Spain
+596,06,09,20,Spain,4,0,Ukraine
+597,03,09,20,Germany,1,1,Spain
+598,18,11,19,Spain,5,0,Romania
+599,15,11,19,Spain,7,0,Malta
+600,15,10,19,Sweden,1,1,Spain
+601,12,10,19,Norway,1,1,Spain
+602,08,09,19,Spain,4,0,Faroe Islands
+603,05,09,19,Romania,1,2,Spain
+604,10,06,19,Spain,3,0,Sweden
+605,07,06,19,Faroe Islands,1,4,Spain
+606,26,03,19,Malta,0,2,Spain
+607,23,03,19,Spain,2,1,Norway
+608,18,11,18,Spain,1,0,Bosnia & Herzegovina
+609,15,11,18,Croatia,3,2,Spain
+610,15,10,18,Spain,2,3,England
+611,11,10,18,Wales,1,4,Spain
+612,11,09,18,Spain,6,0,Croatia
+613,08,09,18,England,1,2,Spain
+614,01,07,18,Spain,3,4,Russia
+615,25,06,18,Spain,2,2,Morocco
+616,05,06,21,Sweden,3,1,Armenia
+617,29,05,21,Sweden,2,0,Finland
+618,31,03,21,Sweden,1,0,Estonia
+619,28,03,21,Kosovo,0,3,Sweden
+620,25,03,21,Sweden,1,0,Georgia
+621,17,11,20,France,4,2,Sweden
+622,14,11,20,Sweden,2,1,Croatia
+623,11,11,20,Denmark,2,0,Sweden
+624,14,10,20,Portugal,3,0,Sweden
+625,11,10,20,Croatia,2,1,Sweden
+626,08,10,20,Russia,1,2,Sweden
+627,08,09,20,Sweden,0,2,Portugal
+628,05,09,20,Sweden,0,1,France
+629,12,01,20,Sweden,1,0,Kosovo
+630,09,01,20,Sweden,1,0,Moldova
+631,18,11,19,Sweden,3,0,Faroe Islands
+632,15,11,19,Romania,0,2,Sweden
+633,15,10,19,Sweden,1,1,Spain
+634,12,10,19,Malta,0,4,Sweden
+635,08,09,19,Sweden,1,1,Norway
+636,05,09,19,Faroe Islands,0,4,Sweden
+637,10,06,19,Spain,3,0,Sweden
+638,07,06,19,Sweden,3,0,Malta
+639,26,03,19,Norway,3,3,Sweden
+640,23,03,19,Sweden,2,1,Romania
+641,11,01,19,Sweden,2,2,Iceland
+642,08,01,19,Sweden,0,1,Finland
+643,20,11,18,Sweden,2,0,Russia
+644,17,11,18,Turkey,0,1,Sweden
+645,16,10,18,Sweden,1,1,Slovakia
+646,03,09,17,Hungary,0,1,Portugal
+647,25,03,17,Portugal,3,0,Hungary
+648,22,06,16,Hungary,3,3,Portugal
+649,10,10,09,Portugal,3,0,Hungary
+650,09,09,09,Hungary,0,1,Portugal
+651,09,10,99,Portugal,3,0,Hungary
+652,08,06,21,Hungary,0,0,Ireland
+653,04,06,21,Hungary,1,0,Cyprus
+654,31,03,21,Andorra,1,4,Hungary
+655,28,03,21,San Marino,0,3,Hungary
+656,25,03,21,Hungary,3,3,Poland
+657,18,11,20,Hungary,2,0,Turkey
+658,15,11,20,Hungary,1,1,Serbia
+659,12,11,20,Hungary,2,1,Iceland
+660,14,10,20,Russia,0,0,Hungary
+661,11,10,20,Serbia,0,1,Hungary
+662,08,10,20,Bulgaria,1,3,Hungary
+663,06,09,20,Hungary,2,3,Russia
+664,03,09,20,Turkey,0,1,Hungary
+665,19,11,19,Wales,2,0,Hungary
+666,15,11,19,Hungary,1,2,Uruguay
+667,13,10,19,Hungary,1,0,Azerbaijan
+668,10,10,19,Croatia,3,0,Hungary
+669,09,09,19,Hungary,1,2,Slovakia
+670,05,09,19,Montenegro,2,1,Hungary
+671,11,06,19,Hungary,1,0,Wales
+672,08,06,19,Azerbaijan,1,3,Hungary
+673,24,03,19,Hungary,2,1,Croatia
+674,21,03,19,Slovakia,2,0,Hungary
+675,18,11,18,Hungary,2,0,Finland
+676,15,11,18,Hungary,2,0,Estonia
+677,15,10,18,Estonia,3,3,Hungary
+678,12,10,18,Greece,1,0,Hungary
+679,11,09,18,Hungary,2,1,Greece
+680,08,09,18,Finland,1,0,Hungary
+681,09,06,18,Hungary,1,2,Australia
+682,09,06,21,Portugal,4,0,Israel
+683,04,06,21,Spain,0,0,Portugal
+684,30,03,21,Luxembourg,1,3,Portugal
+685,27,03,21,Serbia,2,2,Portugal
+686,24,03,21,Portugal,1,0,Azerbaijan
+687,17,11,20,Croatia,2,3,Portugal
+688,14,11,20,Portugal,0,1,France
+689,11,11,20,Portugal,7,0,Andorra
+690,14,10,20,Portugal,3,0,Sweden
+691,11,10,20,France,0,0,Portugal
+692,07,10,20,Portugal,0,0,Spain
+693,08,09,20,Sweden,0,2,Portugal
+694,05,09,20,Portugal,4,1,Croatia
+695,17,11,19,Luxembourg,0,2,Portugal
+696,14,11,19,Portugal,6,0,Lithuania
+697,14,10,19,Ukraine,2,1,Portugal
+698,11,10,19,Portugal,3,0,Luxembourg
+699,10,09,19,Lithuania,1,5,Portugal
+700,07,09,19,Serbia,2,4,Portugal
+701,09,06,19,Portugal,1,0,Netherlands
+702,05,06,19,Portugal,3,1,Switzerland
+703,25,03,19,Portugal,1,1,Serbia
+704,22,03,19,Portugal,0,0,Ukraine
+705,20,11,18,Portugal,1,1,Poland
+706,17,11,18,Italy,0,0,Portugal
+707,14,10,18,Scotland,1,3,Portugal
+708,11,10,18,Poland,2,3,Portugal
+709,10,09,18,Portugal,1,0,Italy
+710,06,09,18,Portugal,1,1,Croatia
+711,30,06,18,Uruguay,2,1,Portugal
+712,16,10,18,France,2,1,Germany
+713,06,09,18,Germany,0,0,France
+714,14,11,17,Germany,2,2,France
+715,07,07,16,Germany,0,2,France
+716,13,11,15,France,2,0,Germany
+717,04,07,14,France,0,1,Germany
+718,08,06,21,France,3,0,Bulgaria
+719,02,06,21,France,3,0,Wales
+720,31,03,21,Bosnia & Herzegovina,0,1,France
+721,28,03,21,Kazakhstan,0,2,France
+722,24,03,21,France,1,1,Ukraine
+723,17,11,20,France,4,2,Sweden
+724,14,11,20,Portugal,0,1,France
+725,11,11,20,France,0,2,Finland
+726,14,10,20,Croatia,1,2,France
+727,11,10,20,France,0,0,Portugal
+728,07,10,20,France,7,1,Ukraine
+729,08,09,20,France,4,2,Croatia
+730,05,09,20,Sweden,0,1,France
+731,17,11,19,Albania,0,2,France
+732,14,11,19,France,2,1,Moldova
+733,14,10,19,France,1,1,Turkey
+734,11,10,19,Iceland,0,1,France
+735,10,09,19,France,3,0,Andorra
+736,07,09,19,France,4,1,Albania
+737,11,06,19,Andorra,0,4,France
+738,08,06,19,Turkey,2,0,France
+739,02,06,19,France,2,0,Bolivia
+740,25,03,19,France,4,0,Iceland
+741,22,03,19,Moldova,1,4,France
+742,20,11,18,France,1,0,Uruguay
+743,16,11,18,Netherlands,2,0,France
+744,16,10,18,France,2,1,Germany
+745,11,10,18,France,2,2,Iceland
+746,09,09,18,France,2,1,Netherlands
+747,06,09,18,Germany,0,0,France
+748,07,06,21,Germany,7,1,Latvia
+749,02,06,21,Germany,1,1,Denmark
+750,31,03,21,Germany,1,2,North Macedonia
+751,28,03,21,Romania,0,1,Germany
+752,25,03,21,Germany,3,0,Iceland
+753,17,11,20,Spain,6,0,Germany
+754,14,11,20,Germany,3,1,Ukraine
+755,11,11,20,Germany,1,0,Czech Republic
+756,13,10,20,Germany,3,3,Switzerland
+757,10,10,20,Ukraine,1,2,Germany
+758,07,10,20,Germany,3,3,Turkey
+759,06,09,20,Switzerland,1,1,Germany
+760,03,09,20,Germany,1,1,Spain
+761,19,11,19,Germany,6,1,Northern Ireland
+762,16,11,19,Germany,4,0,Belarus
+763,13,10,19,Estonia,0,3,Germany
+764,09,10,19,Germany,2,2,Argentina
+765,09,09,19,Northern Ireland,0,2,Germany
+766,06,09,19,Germany,2,4,Netherlands
+767,11,06,19,Germany,8,0,Estonia
+768,08,06,19,Belarus,0,2,Germany
+769,24,03,19,Netherlands,2,3,Germany
+770,20,03,19,Germany,1,1,Serbia
+771,19,11,18,Germany,2,2,Netherlands
+772,15,11,18,Germany,3,0,Russia
+773,16,10,18,France,2,1,Germany
+774,13,10,18,Netherlands,3,0,Germany
+775,09,09,18,Germany,2,1,Peru
+776,06,09,18,Germany,0,0,France
+777,27,06,18,Korea Republic,2,0,Germany
+778,10,06,09,Finland,0,3,Russia
+779,15,10,08,Russia,3,0,Finland
+780,15,11,95,Russia,3,1,Finland
+781,16,08,95,Finland,0,6,Russia
+782,04,06,21,Finland,0,1,Estonia
+783,29,05,21,Sweden,2,0,Finland
+784,31,03,21,Switzerland,3,2,Finland
+785,28,03,21,Ukraine,1,1,Finland
+786,24,03,21,Finland,2,2,Bosnia & Herzegovina
+787,18,11,20,Wales,3,1,Finland
+788,15,11,20,Bulgaria,1,2,Finland
+789,11,11,20,France,0,2,Finland
+790,14,10,20,Finland,1,0,Ireland
+791,11,10,20,Finland,2,0,Bulgaria
+792,07,10,20,Poland,5,1,Finland
+793,06,09,20,Ireland,0,1,Finland
+794,03,09,20,Finland,0,1,Wales
+795,18,11,19,Greece,2,1,Finland
+796,15,11,19,Finland,3,0,Liechtenstein
+797,15,10,19,Finland,3,0,Armenia
+798,12,10,19,Bosnia & Herzegovina,4,1,Finland
+799,08,09,19,Finland,1,2,Italy
+800,05,09,19,Finland,1,0,Greece
+801,11,06,19,Liechtenstein,0,2,Finland
+802,08,06,19,Finland,2,0,Bosnia & Herzegovina
+803,26,03,19,Armenia,0,2,Finland
+804,23,03,19,Italy,2,0,Finland
+805,11,01,19,Finland,1,2,Estonia
+806,08,01,19,Sweden,0,1,Finland
+807,18,11,18,Hungary,2,0,Finland
+808,15,11,18,Greece,1,0,Finland
+809,15,10,18,Finland,2,0,Greece
+810,12,10,18,Estonia,0,1,Finland
+811,11,09,18,Finland,1,0,Estonia
+812,05,06,21,Russia,1,0,Bulgaria
+813,01,06,21,Poland,1,1,Russia
+814,30,03,21,Slovakia,2,1,Russia
+815,27,03,21,Russia,2,1,Slovenia
+816,24,03,21,Malta,1,3,Russia
+817,18,11,20,Serbia,5,0,Russia
+818,15,11,20,Turkey,3,2,Russia
+819,12,11,20,Moldova,0,0,Russia
+820,14,10,20,Russia,0,0,Hungary
+821,11,10,20,Russia,1,1,Turkey
+822,08,10,20,Russia,1,2,Sweden
+823,06,09,20,Hungary,2,3,Russia
+824,03,09,20,Russia,3,1,Serbia
+825,19,11,19,San Marino,0,5,Russia
+826,16,11,19,Russia,1,4,Belgium
+827,13,10,19,Cyprus,0,5,Russia
+828,10,10,19,Russia,4,0,Scotland
+829,09,09,19,Russia,1,0,Kazakhstan
+830,06,09,19,Scotland,1,2,Russia
+831,11,06,19,Russia,1,0,Cyprus
+832,08,06,19,Russia,9,0,San Marino
+833,24,03,19,Kazakhstan,0,4,Russia
+834,21,03,19,Belgium,3,1,Russia
+835,20,11,18,Sweden,2,0,Russia
+836,15,11,18,Germany,3,0,Russia
+837,14,10,18,Russia,2,0,Turkey
+838,11,10,18,Russia,0,0,Sweden
+839,10,09,18,Russia,5,1,Czech Republic
+840,07,09,18,Turkey,1,2,Russia
+841,07,07,18,Russia,3,4,Croatia
+842,21,11,79,Turkey,1,0,Wales
+843,29,11,78,Wales,1,0,Turkey
+844,03,06,21,Turkey,2,0,Moldova
+845,31,05,21,Turkey,0,0,Guinea
+846,27,05,21,Turkey,2,1,Azerbaijan
+847,30,03,21,Turkey,3,3,Latvia
+848,27,03,21,Norway,0,3,Turkey
+849,24,03,21,Turkey,4,2,Netherlands
+850,18,11,20,Hungary,2,0,Turkey
+851,15,11,20,Turkey,3,2,Russia
+852,11,11,20,Turkey,3,3,Croatia
+853,14,10,20,Turkey,2,2,Serbia
+854,11,10,20,Russia,1,1,Turkey
+855,07,10,20,Germany,3,3,Turkey
+856,06,09,20,Serbia,0,0,Turkey
+857,03,09,20,Turkey,0,1,Hungary
+858,17,11,19,Andorra,0,2,Turkey
+859,14,11,19,Turkey,0,0,Iceland
+860,14,10,19,France,1,1,Turkey
+861,11,10,19,Turkey,1,0,Albania
+862,10,09,19,Moldova,0,4,Turkey
+863,07,09,19,Turkey,1,0,Andorra
+864,11,06,19,Iceland,2,1,Turkey
+865,08,06,19,Turkey,2,0,France
+866,02,06,19,Turkey,2,0,Uzbekistan
+867,30,05,19,Turkey,2,1,Greece
+868,25,03,19,Turkey,4,0,Moldova
+869,22,03,19,Albania,0,2,Turkey
+870,20,11,18,Turkey,0,0,Ukraine
+871,17,11,18,Turkey,0,1,Sweden
+872,14,10,18,Russia,2,0,Turkey
+873,11,10,18,Turkey,0,0,Bosnia & Herzegovina
+874,05,06,21,Wales,0,0,Albania
+875,02,06,21,France,3,0,Wales
+876,30,03,21,Wales,1,0,Czech Republic
+877,27,03,21,Wales,1,0,Mexico
+878,24,03,21,Belgium,3,1,Wales
+879,18,11,20,Wales,3,1,Finland
+880,15,11,20,Wales,1,0,Ireland
+881,12,11,20,Wales,0,0,USA
+882,14,10,20,Bulgaria,0,1,Wales
+883,11,10,20,Ireland,0,0,Wales
+884,08,10,20,England,3,0,Wales
+885,06,09,20,Wales,1,0,Bulgaria
+886,03,09,20,Finland,0,1,Wales
+887,19,11,19,Wales,2,0,Hungary
+888,16,11,19,Azerbaijan,0,2,Wales
+889,13,10,19,Wales,1,1,Croatia
+890,10,10,19,Slovakia,1,1,Wales
+891,09,09,19,Wales,1,0,Belarus
+892,06,09,19,Wales,2,1,Azerbaijan
+893,11,06,19,Hungary,1,0,Wales
+894,08,06,19,Croatia,2,1,Wales
+895,24,03,19,Wales,1,0,Slovakia
+896,20,03,19,Wales,1,0,Trinidad and Tobago
+897,20,11,18,Albania,1,0,Wales
+898,16,11,18,Wales,1,2,Denmark
+899,16,10,18,Ireland,0,1,Wales
+900,11,10,18,Wales,1,4,Spain
+901,09,09,18,Denmark,2,0,Wales
+902,06,09,18,Wales,4,1,Ireland
+903,29,05,18,Mexico,0,0,Wales
+904,05,06,10,Switzerland,1,1,Italy
+905,12,08,09,Switzerland,0,0,Italy
+906,31,05,06,Switzerland,1,1,Italy
+907,30,04,03,Switzerland,1,2,Italy
+908,09,06,99,Switzerland,0,0,Italy
+909,10,10,98,Italy,2,0,Switzerland
+910,04,06,21,Italy,4,0,Czech Republic
+911,28,05,21,Italy,7,0,San Marino
+912,31,03,21,Lithuania,0,2,Italy
+913,28,03,21,Bulgaria,0,2,Italy
+914,25,03,21,Italy,2,0,Northern Ireland
+915,18,11,20,Bosnia & Herzegovina,0,2,Italy
+916,15,11,20,Italy,2,0,Poland
+917,11,11,20,Italy,4,0,Estonia
+918,14,10,20,Italy,1,1,Netherlands
+919,11,10,20,Poland,0,0,Italy
+920,07,10,20,Italy,6,0,Moldova
+921,07,09,20,Netherlands,0,1,Italy
+922,04,09,20,Italy,1,1,Bosnia & Herzegovina
+923,18,11,19,Italy,9,1,Armenia
+924,15,11,19,Bosnia & Herzegovina,0,3,Italy
+925,15,10,19,Liechtenstein,0,5,Italy
+926,12,10,19,Italy,2,0,Greece
+927,08,09,19,Finland,1,2,Italy
+928,05,09,19,Armenia,1,3,Italy
+929,11,06,19,Italy,2,1,Bosnia & Herzegovina
+930,08,06,19,Greece,0,3,Italy
+931,26,03,19,Italy,6,0,Liechtenstein
+932,23,03,19,Italy,2,0,Finland
+933,20,11,18,Italy,1,0,USA
+934,17,11,18,Italy,0,0,Portugal
+935,14,10,18,Poland,0,1,Italy
+936,10,10,18,Italy,1,1,Ukraine
+937,10,09,18,Portugal,1,0,Italy
+938,07,09,18,Italy,1,1,Poland
+939,04,06,18,Italy,1,1,Netherlands
+940,03,06,21,Switzerland,7,0,Liechtenstein
+941,30,05,21,Switzerland,2,1,USA
+942,31,03,21,Switzerland,3,2,Finland
+943,28,03,21,Switzerland,1,0,Lithuania
+944,25,03,21,Bulgaria,1,3,Switzerland
+945,14,11,20,Switzerland,1,1,Spain
+946,11,11,20,Belgium,2,1,Switzerland
+947,13,10,20,Germany,3,3,Switzerland
+948,10,10,20,Spain,1,0,Switzerland
+949,07,10,20,Switzerland,1,2,Croatia
+950,06,09,20,Switzerland,1,1,Germany
+951,03,09,20,Ukraine,2,1,Switzerland
+952,18,11,19,Gibraltar,1,6,Switzerland
+953,15,11,19,Switzerland,1,0,Georgia
+954,15,10,19,Switzerland,2,0,Ireland
+955,12,10,19,Denmark,1,0,Switzerland
+956,08,09,19,Switzerland,4,0,Gibraltar
+957,05,09,19,Ireland,1,1,Switzerland
+958,09,06,19,Switzerland,5,6,England
+959,05,06,19,Portugal,3,1,Switzerland
+960,26,03,19,Switzerland,3,3,Denmark
+961,23,03,19,Georgia,0,2,Switzerland
+962,18,11,18,Switzerland,5,2,Belgium
+963,14,11,18,Switzerland,0,1,Qatar
+964,15,10,18,Iceland,1,2,Switzerland
+965,12,10,18,Belgium,2,1,Switzerland
+966,11,09,18,England,1,0,Switzerland
+967,08,09,18,Switzerland,6,0,Iceland
+968,03,07,18,Sweden,1,0,Switzerland
+969,09,10,15,North Macedonia,0,2,Ukraine
+970,12,10,14,Ukraine,1,0,North Macedonia
+971,31,03,04,North Macedonia,1,0,Ukraine
+972,11,10,03,Ukraine,0,0,North Macedonia
+973,07,06,21,Ukraine,4,0,Cyprus
+974,03,06,21,Ukraine,1,0,Northern Ireland
+975,23,05,21,Ukraine,1,1,Bahrain
+976,31,03,21,Ukraine,1,1,Kazakhstan
+977,28,03,21,Ukraine,1,1,Finland
+978,24,03,21,France,1,1,Ukraine
+979,14,11,20,Germany,3,1,Ukraine
+980,11,11,20,Poland,2,0,Ukraine
+981,13,10,20,Ukraine,1,0,Spain
+982,10,10,20,Ukraine,1,2,Germany
+983,07,10,20,France,7,1,Ukraine
+984,06,09,20,Spain,4,0,Ukraine
+985,03,09,20,Ukraine,2,1,Switzerland
+986,17,11,19,Serbia,2,2,Ukraine
+987,14,11,19,Ukraine,1,0,Estonia
+988,14,10,19,Ukraine,2,1,Portugal
+989,11,10,19,Ukraine,2,0,Lithuania
+990,10,09,19,Ukraine,2,2,Nigeria
+991,07,09,19,Lithuania,0,3,Ukraine
+992,10,06,19,Ukraine,1,0,Luxembourg
+993,07,06,19,Ukraine,5,0,Serbia
+994,25,03,19,Luxembourg,1,2,Ukraine
+995,22,03,19,Portugal,0,0,Ukraine
+996,20,11,18,Turkey,0,0,Ukraine
+997,16,11,18,Slovakia,4,1,Ukraine
+998,16,10,18,Ukraine,1,0,Czech Republic
+999,10,10,18,Italy,1,1,Ukraine
+1000,09,09,18,Ukraine,1,0,Slovakia
+1001,06,09,18,Czech Republic,1,2,Ukraine
+1002,04,06,21,North Macedonia,4,0,Kazakhstan
+1003,01,06,21,North Macedonia,1,1,Slovenia
+1004,31,03,21,Germany,1,2,North Macedonia
+1005,28,03,21,North Macedonia,5,0,Liechtenstein
+1006,25,03,21,Romania,3,2,North Macedonia
+1007,18,11,20,Armenia,1,0,North Macedonia
+1008,15,11,20,North Macedonia,2,1,Estonia
+1009,12,11,20,Georgia,0,1,North Macedonia
+1010,14,10,20,North Macedonia,1,1,Georgia
+1011,11,10,20,Estonia,3,3,North Macedonia
+1012,08,10,20,North Macedonia,2,1,Kosovo
+1013,08,09,20,Georgia,1,1,North Macedonia
+1014,05,09,20,North Macedonia,2,1,Armenia
+1015,19,11,19,North Macedonia,1,0,Israel
+1016,16,11,19,Austria,2,1,North Macedonia
+1017,13,10,19,Poland,2,0,North Macedonia
+1018,10,10,19,North Macedonia,2,1,Slovenia
+1019,09,09,19,Latvia,0,2,North Macedonia
+1020,05,09,19,Israel,1,1,North Macedonia
+1021,10,06,19,North Macedonia,1,4,Austria
+1022,07,06,19,North Macedonia,0,1,Poland
+1023,24,03,19,Slovenia,1,1,North Macedonia
+1024,21,03,19,North Macedonia,3,1,Latvia
+1025,19,11,18,North Macedonia,4,0,Gibraltar
+1026,16,11,18,Liechtenstein,0,2,North Macedonia
+1027,16,10,18,Armenia,4,0,North Macedonia
+1028,13,10,18,North Macedonia,4,1,Liechtenstein
+1029,09,09,18,North Macedonia,2,0,Armenia
+1030,06,09,18,Gibraltar,0,2,North Macedonia
+1031,27,03,18,Azerbaijan,1,1,North Macedonia
+1032,18,11,20,Belgium,4,2,Denmark
+1033,05,09,20,Denmark,0,2,Belgium
+1034,06,09,95,Belgium,1,3,Denmark
+1035,12,10,94,Denmark,3,1,Belgium
+1036,19,06,84,Denmark,3,2,Belgium
+1037,26,05,71,Denmark,1,2,Belgium
+1038,06,06,21,Denmark,2,0,Bosnia & Herzegovina
+1039,02,06,21,Germany,1,1,Denmark
+1040,31,03,21,Austria,0,4,Denmark
+1041,28,03,21,Denmark,8,0,Moldova
+1042,25,03,21,Israel,0,2,Denmark
+1043,18,11,20,Belgium,4,2,Denmark
+1044,15,11,20,Denmark,2,1,Iceland
+1045,11,11,20,Denmark,2,0,Sweden
+1046,14,10,20,England,0,1,Denmark
+1047,11,10,20,Iceland,0,3,Denmark
+1048,07,10,20,Denmark,4,0,Faroe Islands
+1049,08,09,20,Denmark,0,0,England
+1050,05,09,20,Denmark,0,2,Belgium
+1051,18,11,19,Ireland,1,1,Denmark
+1052,15,11,19,Denmark,6,0,Gibraltar
+1053,15,10,19,Denmark,4,0,Luxembourg
+1054,12,10,19,Denmark,1,0,Switzerland
+1055,08,09,19,Georgia,0,0,Denmark
+1056,05,09,19,Gibraltar,0,6,Denmark
+1057,10,06,19,Denmark,5,1,Georgia
+1058,07,06,19,Denmark,1,1,Ireland
+1059,26,03,19,Switzerland,3,3,Denmark
+1060,21,03,19,Kosovo,2,2,Denmark
+1061,19,11,18,Denmark,0,0,Ireland
+1062,16,11,18,Wales,1,2,Denmark
+1063,16,10,18,Denmark,2,0,Austria
+1064,13,10,18,Ireland,0,0,Denmark
+1065,09,09,18,Denmark,2,0,Wales
+1066,05,09,18,Slovakia,3,0,Denmark
+1067,01,07,18,Croatia,3,2,Denmark
+1068,06,06,21,Belgium,1,0,Croatia
+1069,03,06,21,Belgium,1,1,Greece
+1070,30,03,21,Belgium,8,0,Belarus
+1071,27,03,21,Czech Republic,1,1,Belgium
+1072,24,03,21,Belgium,3,1,Wales
+1073,18,11,20,Belgium,4,2,Denmark
+1074,15,11,20,Belgium,2,0,England
+1075,11,11,20,Belgium,2,1,Switzerland
+1076,14,10,20,Iceland,1,2,Belgium
+1077,11,10,20,England,2,1,Belgium
+1078,08,10,20,Belgium,1,1,Ivory Coast
+1079,08,09,20,Belgium,5,1,Iceland
+1080,05,09,20,Denmark,0,2,Belgium
+1081,19,11,19,Belgium,6,1,Cyprus
+1082,16,11,19,Russia,1,4,Belgium
+1083,13,10,19,Kazakhstan,0,2,Belgium
+1084,10,10,19,Belgium,9,0,San Marino
+1085,09,09,19,Scotland,0,4,Belgium
+1086,06,09,19,San Marino,0,4,Belgium
+1087,11,06,19,Belgium,3,0,Scotland
+1088,08,06,19,Belgium,3,0,Kazakhstan
+1089,24,03,19,Cyprus,0,2,Belgium
+1090,21,03,19,Belgium,3,1,Russia
+1091,18,11,18,Switzerland,5,2,Belgium
+1092,15,11,18,Belgium,2,0,Iceland
+1093,16,10,18,Belgium,1,1,Netherlands
+1094,12,10,18,Belgium,2,1,Switzerland
+1095,11,09,18,Iceland,0,3,Belgium
+1096,07,09,18,Scotland,0,4,Belgium
+1097,14,07,18,Belgium,2,0,England
+1098,04,06,16,Austria,0,2,Netherlands
+1099,09,02,11,Netherlands,3,1,Austria
+1100,26,03,08,Austria,3,4,Netherlands
+1101,06,09,03,Netherlands,3,1,Austria
+1102,16,10,02,Austria,0,3,Netherlands
+1103,14,06,78,Netherlands,5,1,Austria
+1104,06,06,21,Netherlands,3,0,Georgia
+1105,02,06,21,Netherlands,2,2,Scotland
+1106,30,03,21,Gibraltar,0,7,Netherlands
+1107,27,03,21,Netherlands,2,0,Latvia
+1108,24,03,21,Turkey,4,2,Netherlands
+1109,18,11,20,Poland,1,2,Netherlands
+1110,15,11,20,Netherlands,3,1,Bosnia & Herzegovina
+1111,11,11,20,Netherlands,1,1,Spain
+1112,14,10,20,Italy,1,1,Netherlands
+1113,11,10,20,Bosnia & Herzegovina,0,0,Netherlands
+1114,07,10,20,Netherlands,0,1,Mexico
+1115,07,09,20,Netherlands,0,1,Italy
+1116,04,09,20,Netherlands,1,0,Poland
+1117,19,11,19,Netherlands,5,0,Estonia
+1118,16,11,19,Northern Ireland,0,0,Netherlands
+1119,13,10,19,Belarus,1,2,Netherlands
+1120,10,10,19,Netherlands,3,1,Northern Ireland
+1121,09,09,19,Estonia,0,4,Netherlands
+1122,06,09,19,Germany,2,4,Netherlands
+1123,09,06,19,Portugal,1,0,Netherlands
+1124,06,06,19,Netherlands,3,1,England
+1125,24,03,19,Netherlands,2,3,Germany
+1126,21,03,19,Netherlands,4,0,Belarus
+1127,19,11,18,Germany,2,2,Netherlands
+1128,16,11,18,Netherlands,2,0,France
+1129,16,10,18,Belgium,1,1,Netherlands
+1130,13,10,18,Netherlands,3,0,Germany
+1131,09,09,18,France,2,1,Netherlands
+1132,06,09,18,Netherlands,2,1,Peru
+1133,04,06,18,Italy,1,1,Netherlands
+1134,06,06,21,Austria,0,0,Slovakia
+1135,02,06,21,England,1,0,Austria
+1136,31,03,21,Austria,0,4,Denmark
+1137,28,03,21,Austria,3,1,Faroe Islands
+1138,25,03,21,Scotland,2,2,Austria
+1139,18,11,20,Austria,1,1,Norway
+1140,15,11,20,Austria,2,1,Northern Ireland
+1141,11,11,20,Luxembourg,0,3,Austria
+1142,14,10,20,Romania,0,1,Austria
+1143,11,10,20,Northern Ireland,0,1,Austria
+1144,07,10,20,Austria,2,1,Greece
+1145,07,09,20,Austria,2,3,Romania
+1146,04,09,20,Norway,1,2,Austria
+1147,19,11,19,Latvia,1,0,Austria
+1148,16,11,19,Austria,2,1,North Macedonia
+1149,13,10,19,Slovenia,0,1,Austria
+1150,10,10,19,Austria,3,1,Israel
+1151,09,09,19,Poland,0,0,Austria
+1152,06,09,19,Austria,6,0,Latvia
+1153,10,06,19,North Macedonia,1,4,Austria
+1154,07,06,19,Austria,1,0,Slovenia
+1155,24,03,19,Israel,4,2,Austria
+1156,21,03,19,Austria,0,1,Poland
+1157,18,11,18,Northern Ireland,1,2,Austria
+1158,15,11,18,Austria,0,0,Bosnia & Herzegovina
+1159,16,10,18,Denmark,2,0,Austria
+1160,12,10,18,Austria,1,0,Northern Ireland
+1161,11,09,18,Bosnia & Herzegovina,1,0,Austria
+1162,06,09,18,Austria,2,0,Sweden
+1163,10,06,18,Austria,0,3,Brazil
+1164,16,10,18,Sweden,1,1,Slovakia
+1165,12,01,17,Sweden,6,0,Slovakia
+1166,26,03,13,Slovakia,0,0,Sweden
+1167,05,06,21,Sweden,3,1,Armenia
+1168,29,05,21,Sweden,2,0,Finland
+1169,31,03,21,Sweden,1,0,Estonia
+1170,28,03,21,Kosovo,0,3,Sweden
+1171,25,03,21,Sweden,1,0,Georgia
+1172,17,11,20,France,4,2,Sweden
+1173,14,11,20,Sweden,2,1,Croatia
+1174,11,11,20,Denmark,2,0,Sweden
+1175,14,10,20,Portugal,3,0,Sweden
+1176,11,10,20,Croatia,2,1,Sweden
+1177,08,10,20,Russia,1,2,Sweden
+1178,08,09,20,Sweden,0,2,Portugal
+1179,05,09,20,Sweden,0,1,France
+1180,12,01,20,Sweden,1,0,Kosovo
+1181,09,01,20,Sweden,1,0,Moldova
+1182,18,11,19,Sweden,3,0,Faroe Islands
+1183,15,11,19,Romania,0,2,Sweden
+1184,15,10,19,Sweden,1,1,Spain
+1185,12,10,19,Malta,0,4,Sweden
+1186,08,09,19,Sweden,1,1,Norway
+1187,05,09,19,Faroe Islands,0,4,Sweden
+1188,10,06,19,Spain,3,0,Sweden
+1189,07,06,19,Sweden,3,0,Malta
+1190,26,03,19,Norway,3,3,Sweden
+1191,23,03,19,Sweden,2,1,Romania
+1192,11,01,19,Sweden,2,2,Iceland
+1193,08,01,19,Sweden,0,1,Finland
+1194,20,11,18,Sweden,2,0,Russia
+1195,17,11,18,Turkey,0,1,Sweden
+1196,16,10,18,Sweden,1,1,Slovakia
+1197,06,06,21,Austria,0,0,Slovakia
+1198,01,06,21,Slovakia,1,1,Bulgaria
+1199,30,03,21,Slovakia,2,1,Russia
+1200,27,03,21,Slovakia,2,2,Malta
+1201,24,03,21,Cyprus,0,0,Slovakia
+1202,18,11,20,Czech Republic,2,0,Slovakia
+1203,15,11,20,Slovakia,1,0,Scotland
+1204,12,11,20,Northern Ireland,1,2,Slovakia
+1205,14,10,20,Slovakia,2,3,Israel
+1206,11,10,20,Scotland,1,0,Slovakia
+1207,08,10,20,Slovakia,4,2,Ireland
+1208,07,09,20,Israel,1,1,Slovakia
+1209,04,09,20,Slovakia,1,3,Czech Republic
+1210,19,11,19,Slovakia,2,0,Azerbaijan
+1211,16,11,19,Croatia,3,1,Slovakia
+1212,13,10,19,Slovakia,1,1,Paraguay
+1213,10,10,19,Slovakia,1,1,Wales
+1214,09,09,19,Hungary,1,2,Slovakia
+1215,06,09,19,Slovakia,0,4,Croatia
+1216,11,06,19,Azerbaijan,1,5,Slovakia
+1217,07,06,19,Slovakia,5,1,Jordan
+1218,24,03,19,Wales,1,0,Slovakia
+1219,21,03,19,Slovakia,2,0,Hungary
+1220,19,11,18,Czech Republic,1,0,Slovakia
+1221,16,11,18,Slovakia,4,1,Ukraine
+1222,16,10,18,Sweden,1,1,Slovakia
+1223,13,10,18,Slovakia,1,2,Czech Republic
+1224,09,09,18,Ukraine,1,0,Slovakia
+1225,05,09,18,Slovakia,3,0,Denmark
+1226,04,06,18,Slovakia,1,2,Morocco
+1227,17,06,16,Czech Republic,2,2,Croatia
+1228,09,02,11,Croatia,4,2,Czech Republic
+1229,06,06,21,Belgium,1,0,Croatia
+1230,01,06,21,Croatia,1,1,Armenia
+1231,30,03,21,Croatia,3,0,Malta
+1232,27,03,21,Croatia,1,0,Cyprus
+1233,24,03,21,Slovenia,1,0,Croatia
+1234,17,11,20,Croatia,2,3,Portugal
+1235,14,11,20,Sweden,2,1,Croatia
+1236,11,11,20,Turkey,3,3,Croatia
+1237,14,10,20,Croatia,1,2,France
+1238,11,10,20,Croatia,2,1,Sweden
+1239,07,10,20,Switzerland,1,2,Croatia
+1240,08,09,20,France,4,2,Croatia
+1241,05,09,20,Portugal,4,1,Croatia
+1242,19,11,19,Croatia,2,1,Georgia
+1243,16,11,19,Croatia,3,1,Slovakia
+1244,13,10,19,Wales,1,1,Croatia
+1245,10,10,19,Croatia,3,0,Hungary
+1246,09,09,19,Azerbaijan,1,1,Croatia
+1247,06,09,19,Slovakia,0,4,Croatia
+1248,11,06,19,Croatia,1,2,Tunisia
+1249,08,06,19,Croatia,2,1,Wales
+1250,24,03,19,Hungary,2,1,Croatia
+1251,21,03,19,Croatia,2,1,Azerbaijan
+1252,18,11,18,England,2,1,Croatia
+1253,15,11,18,Croatia,3,2,Spain
+1254,15,10,18,Croatia,2,1,Jordan
+1255,12,10,18,Croatia,0,0,England
+1256,11,09,18,Spain,6,0,Croatia
+1257,06,09,18,Portugal,1,1,Croatia
+1258,15,07,18,France,4,2,Croatia
+1259,08,06,21,Czech Republic,3,1,Albania
+1260,04,06,21,Italy,4,0,Czech Republic
+1261,30,03,21,Wales,1,0,Czech Republic
+1262,27,03,21,Czech Republic,1,1,Belgium
+1263,24,03,21,Estonia,2,6,Czech Republic
+1264,18,11,20,Czech Republic,2,0,Slovakia
+1265,15,11,20,Czech Republic,1,0,Israel
+1266,11,11,20,Germany,1,0,Czech Republic
+1267,14,10,20,Scotland,1,0,Czech Republic
+1268,11,10,20,Israel,1,2,Czech Republic
+1269,07,10,20,Cyprus,1,2,Czech Republic
+1270,07,09,20,Czech Republic,1,2,Scotland
+1271,04,09,20,Slovakia,1,3,Czech Republic
+1272,17,11,19,Bulgaria,1,0,Czech Republic
+1273,14,11,19,Czech Republic,2,1,Kosovo
+1274,14,10,19,Czech Republic,2,3,Northern Ireland
+1275,11,10,19,Czech Republic,2,1,England
+1276,10,09,19,Montenegro,0,3,Czech Republic
+1277,07,09,19,Kosovo,2,1,Czech Republic
+1278,10,06,19,Czech Republic,3,0,Montenegro
+1279,07,06,19,Czech Republic,2,1,Bulgaria
+1280,26,03,19,Czech Republic,1,3,Brazil
+1281,22,03,19,England,5,0,Czech Republic
+1282,19,11,18,Czech Republic,1,0,Slovakia
+1283,15,11,18,Poland,0,1,Czech Republic
+1284,16,10,18,Ukraine,1,0,Czech Republic
+1285,13,10,18,Slovakia,1,2,Czech Republic
+1286,10,09,18,Russia,5,1,Czech Republic
+1287,06,09,18,Czech Republic,1,2,Ukraine
+1288,06,06,18,Czech Republic,1,0,Nigeria
+1289,10,06,17,Scotland,2,2,England
+1290,11,11,16,England,3,0,Scotland
+1291,18,11,14,Scotland,1,3,England
+1292,14,08,13,England,3,2,Scotland
+1293,17,11,99,England,0,1,Scotland
+1294,13,11,99,Scotland,0,2,England
+1295,06,06,21,England,1,0,Romania
+1296,02,06,21,England,1,0,Austria
+1297,31,03,21,England,2,1,Poland
+1298,28,03,21,Albania,0,2,England
+1299,25,03,21,England,5,0,San Marino
+1300,18,11,20,England,4,0,Iceland
+1301,15,11,20,Belgium,2,0,England
+1302,12,11,20,England,3,0,Ireland
+1303,14,10,20,England,0,1,Denmark
+1304,11,10,20,England,2,1,Belgium
+1305,08,10,20,England,3,0,Wales
+1306,08,09,20,Denmark,0,0,England
+1307,05,09,20,Iceland,0,1,England
+1308,17,11,19,Kosovo,0,4,England
+1309,14,11,19,England,7,0,Montenegro
+1310,14,10,19,Bulgaria,0,6,England
+1311,11,10,19,Czech Republic,2,1,England
+1312,10,09,19,England,5,3,Kosovo
+1313,07,09,19,England,4,0,Bulgaria
+1314,09,06,19,Switzerland,5,6,England
+1315,06,06,19,Netherlands,3,1,England
+1316,25,03,19,Montenegro,1,5,England
+1317,22,03,19,England,5,0,Czech Republic
+1318,18,11,18,England,2,1,Croatia
+1319,15,11,18,England,3,0,USA
+1320,15,10,18,Spain,2,3,England
+1321,12,10,18,Croatia,0,0,England
+1322,11,09,18,England,1,0,Switzerland
+1323,08,09,18,England,1,2,Spain
+1324,14,07,18,Belgium,2,0,England
+1325,06,06,21,Luxembourg,0,1,Scotland
+1326,02,06,21,Netherlands,2,2,Scotland
+1327,31,03,21,Scotland,4,0,Faroe Islands
+1328,28,03,21,Israel,1,1,Scotland
+1329,25,03,21,Scotland,2,2,Austria
+1330,18,11,20,Israel,1,0,Scotland
+1331,15,11,20,Slovakia,1,0,Scotland
+1332,12,11,20,Serbia,4,5,Scotland
+1333,14,10,20,Scotland,1,0,Czech Republic
+1334,11,10,20,Scotland,1,0,Slovakia
+1335,08,10,20,Scotland,5,3,Israel
+1336,07,09,20,Czech Republic,1,2,Scotland
+1337,04,09,20,Scotland,1,1,Israel
+1338,19,11,19,Scotland,3,1,Kazakhstan
+1339,16,11,19,Cyprus,1,2,Scotland
+1340,13,10,19,Scotland,6,0,San Marino
+1341,10,10,19,Russia,4,0,Scotland
+1342,09,09,19,Scotland,0,4,Belgium
+1343,06,09,19,Scotland,1,2,Russia
+1344,11,06,19,Belgium,3,0,Scotland
+1345,08,06,19,Scotland,2,1,Cyprus
+1346,24,03,19,San Marino,0,2,Scotland
+1347,21,03,19,Kazakhstan,3,0,Scotland
+1348,20,11,18,Scotland,3,2,Israel
+1349,17,11,18,Albania,0,4,Scotland
+1350,14,10,18,Scotland,1,3,Portugal
+1351,11,10,18,Israel,2,1,Scotland
+1352,10,09,18,Scotland,2,0,Albania
+1353,07,09,18,Scotland,0,4,Belgium
+1354,03,06,18,Mexico,1,0,Scotland
+1355,31,05,05,France,2,1,Hungary
+1356,09,06,86,Hungary,0,3,France
+1357,10,06,78,France,3,1,Hungary
+1358,09,10,71,France,0,2,Hungary
+1359,24,04,71,Hungary,1,1,France
+1360,23,05,64,Hungary,2,1,France
+1361,08,06,21,Hungary,0,0,Ireland
+1362,04,06,21,Hungary,1,0,Cyprus
+1363,31,03,21,Andorra,1,4,Hungary
+1364,28,03,21,San Marino,0,3,Hungary
+1365,25,03,21,Hungary,3,3,Poland
+1366,18,11,20,Hungary,2,0,Turkey
+1367,15,11,20,Hungary,1,1,Serbia
+1368,12,11,20,Hungary,2,1,Iceland
+1369,14,10,20,Russia,0,0,Hungary
+1370,11,10,20,Serbia,0,1,Hungary
+1371,08,10,20,Bulgaria,1,3,Hungary
+1372,06,09,20,Hungary,2,3,Russia
+1373,03,09,20,Turkey,0,1,Hungary
+1374,19,11,19,Wales,2,0,Hungary
+1375,15,11,19,Hungary,1,2,Uruguay
+1376,13,10,19,Hungary,1,0,Azerbaijan
+1377,10,10,19,Croatia,3,0,Hungary
+1378,09,09,19,Hungary,1,2,Slovakia
+1379,05,09,19,Montenegro,2,1,Hungary
+1380,11,06,19,Hungary,1,0,Wales
+1381,08,06,19,Azerbaijan,1,3,Hungary
+1382,24,03,19,Hungary,2,1,Croatia
+1383,21,03,19,Slovakia,2,0,Hungary
+1384,18,11,18,Hungary,2,0,Finland
+1385,15,11,18,Hungary,2,0,Estonia
+1386,15,10,18,Estonia,3,3,Hungary
+1387,12,10,18,Greece,1,0,Hungary
+1388,11,09,18,Hungary,2,1,Greece
+1389,08,09,18,Finland,1,0,Hungary
+1390,09,06,18,Hungary,1,2,Australia
+1391,08,06,21,France,3,0,Bulgaria
+1392,02,06,21,France,3,0,Wales
+1393,31,03,21,Bosnia & Herzegovina,0,1,France
+1394,28,03,21,Kazakhstan,0,2,France
+1395,24,03,21,France,1,1,Ukraine
+1396,17,11,20,France,4,2,Sweden
+1397,14,11,20,Portugal,0,1,France
+1398,11,11,20,France,0,2,Finland
+1399,14,10,20,Croatia,1,2,France
+1400,11,10,20,France,0,0,Portugal
+1401,07,10,20,France,7,1,Ukraine
+1402,08,09,20,France,4,2,Croatia
+1403,05,09,20,Sweden,0,1,France
+1404,17,11,19,Albania,0,2,France
+1405,14,11,19,France,2,1,Moldova
+1406,14,10,19,France,1,1,Turkey
+1407,11,10,19,Iceland,0,1,France
+1408,10,09,19,France,3,0,Andorra
+1409,07,09,19,France,4,1,Albania
+1410,11,06,19,Andorra,0,4,France
+1411,08,06,19,Turkey,2,0,France
+1412,02,06,19,France,2,0,Bolivia
+1413,25,03,19,France,4,0,Iceland
+1414,22,03,19,Moldova,1,4,France
+1415,20,11,18,France,1,0,Uruguay
+1416,16,11,18,Netherlands,2,0,France
+1417,16,10,18,France,2,1,Germany
+1418,11,10,18,France,2,2,Iceland
+1419,09,09,18,France,2,1,Netherlands
+1420,06,09,18,Germany,0,0,France
+1421,16,06,14,Germany,4,0,Portugal
+1422,09,06,12,Germany,1,0,Portugal
+1423,19,06,08,Portugal,2,3,Germany
+1424,08,07,06,Germany,3,1,Portugal
+1425,20,06,00,Portugal,3,0,Germany
+1426,09,06,21,Portugal,4,0,Israel
+1427,04,06,21,Spain,0,0,Portugal
+1428,30,03,21,Luxembourg,1,3,Portugal
+1429,27,03,21,Serbia,2,2,Portugal
+1430,24,03,21,Portugal,1,0,Azerbaijan
+1431,17,11,20,Croatia,2,3,Portugal
+1432,14,11,20,Portugal,0,1,France
+1433,11,11,20,Portugal,7,0,Andorra
+1434,14,10,20,Portugal,3,0,Sweden
+1435,11,10,20,France,0,0,Portugal
+1436,07,10,20,Portugal,0,0,Spain
+1437,08,09,20,Sweden,0,2,Portugal
+1438,05,09,20,Portugal,4,1,Croatia
+1439,17,11,19,Luxembourg,0,2,Portugal
+1440,14,11,19,Portugal,6,0,Lithuania
+1441,14,10,19,Ukraine,2,1,Portugal
+1442,11,10,19,Portugal,3,0,Luxembourg
+1443,10,09,19,Lithuania,1,5,Portugal
+1444,07,09,19,Serbia,2,4,Portugal
+1445,09,06,19,Portugal,1,0,Netherlands
+1446,05,06,19,Portugal,3,1,Switzerland
+1447,25,03,19,Portugal,1,1,Serbia
+1448,22,03,19,Portugal,0,0,Ukraine
+1449,20,11,18,Portugal,1,1,Poland
+1450,17,11,18,Italy,0,0,Portugal
+1451,14,10,18,Scotland,1,3,Portugal
+1452,11,10,18,Poland,2,3,Portugal
+1453,10,09,18,Portugal,1,0,Italy
+1454,06,09,18,Portugal,1,1,Croatia
+1455,30,06,18,Uruguay,2,1,Portugal
+1456,07,06,21,Germany,7,1,Latvia
+1457,02,06,21,Germany,1,1,Denmark
+1458,31,03,21,Germany,1,2,North Macedonia
+1459,28,03,21,Romania,0,1,Germany
+1460,25,03,21,Germany,3,0,Iceland
+1461,17,11,20,Spain,6,0,Germany
+1462,14,11,20,Germany,3,1,Ukraine
+1463,11,11,20,Germany,1,0,Czech Republic
+1464,13,10,20,Germany,3,3,Switzerland
+1465,10,10,20,Ukraine,1,2,Germany
+1466,07,10,20,Germany,3,3,Turkey
+1467,06,09,20,Switzerland,1,1,Germany
+1468,03,09,20,Germany,1,1,Spain
+1469,19,11,19,Germany,6,1,Northern Ireland
+1470,16,11,19,Germany,4,0,Belarus
+1471,13,10,19,Estonia,0,3,Germany
+1472,09,10,19,Germany,2,2,Argentina
+1473,09,09,19,Northern Ireland,0,2,Germany
+1474,06,09,19,Germany,2,4,Netherlands
+1475,11,06,19,Germany,8,0,Estonia
+1476,08,06,19,Belarus,0,2,Germany
+1477,24,03,19,Netherlands,2,3,Germany
+1478,20,03,19,Germany,1,1,Serbia
+1479,19,11,18,Germany,2,2,Netherlands
+1480,15,11,18,Germany,3,0,Russia
+1481,16,10,18,France,2,1,Germany
+1482,13,10,18,Netherlands,3,0,Germany
+1483,09,09,18,Germany,2,1,Peru
+1484,06,09,18,Germany,0,0,France
+1485,27,06,18,Korea Republic,2,0,Germany
+1486,08,06,10,Spain,6,0,Poland
+1487,14,10,59,Spain,3,0,Poland
+1488,28,06,59,Poland,2,4,Spain
+1489,04,06,21,Spain,0,0,Portugal
+1490,31,03,21,Spain,3,1,Kosovo
+1491,28,03,21,Georgia,1,2,Spain
+1492,25,03,21,Spain,1,1,Greece
+1493,17,11,20,Spain,6,0,Germany
+1494,14,11,20,Switzerland,1,1,Spain
+1495,11,11,20,Netherlands,1,1,Spain
+1496,13,10,20,Ukraine,1,0,Spain
+1497,10,10,20,Spain,1,0,Switzerland
+1498,07,10,20,Portugal,0,0,Spain
+1499,06,09,20,Spain,4,0,Ukraine
+1500,03,09,20,Germany,1,1,Spain
+1501,18,11,19,Spain,5,0,Romania
+1502,15,11,19,Spain,7,0,Malta
+1503,15,10,19,Sweden,1,1,Spain
+1504,12,10,19,Norway,1,1,Spain
+1505,08,09,19,Spain,4,0,Faroe Islands
+1506,05,09,19,Romania,1,2,Spain
+1507,10,06,19,Spain,3,0,Sweden
+1508,07,06,19,Faroe Islands,1,4,Spain
+1509,26,03,19,Malta,0,2,Spain
+1510,23,03,19,Spain,2,1,Norway
+1511,18,11,18,Spain,1,0,Bosnia & Herzegovina
+1512,15,11,18,Croatia,3,2,Spain
+1513,15,10,18,Spain,2,3,England
+1514,11,10,18,Wales,1,4,Spain
+1515,11,09,18,Spain,6,0,Croatia
+1516,08,09,18,England,1,2,Spain
+1517,01,07,18,Spain,3,4,Russia
+1518,25,06,18,Spain,2,2,Morocco
+1519,08,06,21,Poland,2,2,Iceland
+1520,01,06,21,Poland,1,1,Russia
+1521,31,03,21,England,2,1,Poland
+1522,28,03,21,Poland,3,0,Andorra
+1523,25,03,21,Hungary,3,3,Poland
+1524,18,11,20,Poland,1,2,Netherlands
+1525,15,11,20,Italy,2,0,Poland
+1526,11,11,20,Poland,2,0,Ukraine
+1527,14,10,20,Poland,3,0,Bosnia & Herzegovina
+1528,11,10,20,Poland,0,0,Italy
+1529,07,10,20,Poland,5,1,Finland
+1530,07,09,20,Bosnia & Herzegovina,1,2,Poland
+1531,04,09,20,Netherlands,1,0,Poland
+1532,19,11,19,Poland,3,2,Slovenia
+1533,16,11,19,Israel,1,2,Poland
+1534,13,10,19,Poland,2,0,North Macedonia
+1535,10,10,19,Latvia,0,3,Poland
+1536,09,09,19,Poland,0,0,Austria
+1537,06,09,19,Slovenia,2,0,Poland
+1538,10,06,19,Poland,4,0,Israel
+1539,07,06,19,North Macedonia,0,1,Poland
+1540,24,03,19,Poland,2,0,Latvia
+1541,21,03,19,Austria,0,1,Poland
+1542,20,11,18,Portugal,1,1,Poland
+1543,15,11,18,Poland,0,1,Czech Republic
+1544,14,10,18,Poland,0,1,Italy
+1545,11,10,18,Poland,2,3,Portugal
+1546,11,09,18,Poland,1,1,Ireland
+1547,07,09,18,Italy,1,1,Poland
+1548,28,06,18,Japan,0,1,Poland
+1549,06,09,03,Italy,4,0,Wales
+1550,16,10,02,Wales,2,1,Italy
+1551,05,06,99,Italy,4,0,Wales
+1552,05,09,98,Wales,0,2,Italy
+1553,04,06,21,Italy,4,0,Czech Republic
+1554,28,05,21,Italy,7,0,San Marino
+1555,31,03,21,Lithuania,0,2,Italy
+1556,28,03,21,Bulgaria,0,2,Italy
+1557,25,03,21,Italy,2,0,Northern Ireland
+1558,18,11,20,Bosnia & Herzegovina,0,2,Italy
+1559,15,11,20,Italy,2,0,Poland
+1560,11,11,20,Italy,4,0,Estonia
+1561,14,10,20,Italy,1,1,Netherlands
+1562,11,10,20,Poland,0,0,Italy
+1563,07,10,20,Italy,6,0,Moldova
+1564,07,09,20,Netherlands,0,1,Italy
+1565,04,09,20,Italy,1,1,Bosnia & Herzegovina
+1566,18,11,19,Italy,9,1,Armenia
+1567,15,11,19,Bosnia & Herzegovina,0,3,Italy
+1568,15,10,19,Liechtenstein,0,5,Italy
+1569,12,10,19,Italy,2,0,Greece
+1570,08,09,19,Finland,1,2,Italy
+1571,05,09,19,Armenia,1,3,Italy
+1572,11,06,19,Italy,2,1,Bosnia & Herzegovina
+1573,08,06,19,Greece,0,3,Italy
+1574,26,03,19,Italy,6,0,Liechtenstein
+1575,23,03,19,Italy,2,0,Finland
+1576,20,11,18,Italy,1,0,USA
+1577,17,11,18,Italy,0,0,Portugal
+1578,14,10,18,Poland,0,1,Italy
+1579,10,10,18,Italy,1,1,Ukraine
+1580,10,09,18,Portugal,1,0,Italy
+1581,07,09,18,Italy,1,1,Poland
+1582,04,06,18,Italy,1,1,Netherlands
+1583,05,06,21,Wales,0,0,Albania
+1584,02,06,21,France,3,0,Wales
+1585,30,03,21,Wales,1,0,Czech Republic
+1586,27,03,21,Wales,1,0,Mexico
+1587,24,03,21,Belgium,3,1,Wales
+1588,18,11,20,Wales,3,1,Finland
+1589,15,11,20,Wales,1,0,Ireland
+1590,12,11,20,Wales,0,0,USA
+1591,14,10,20,Bulgaria,0,1,Wales
+1592,11,10,20,Ireland,0,0,Wales
+1593,08,10,20,England,3,0,Wales
+1594,06,09,20,Wales,1,0,Bulgaria
+1595,03,09,20,Finland,0,1,Wales
+1596,19,11,19,Wales,2,0,Hungary
+1597,16,11,19,Azerbaijan,0,2,Wales
+1598,13,10,19,Wales,1,1,Croatia
+1599,10,10,19,Slovakia,1,1,Wales
+1600,09,09,19,Wales,1,0,Belarus
+1601,06,09,19,Wales,2,1,Azerbaijan
+1602,11,06,19,Hungary,1,0,Wales
+1603,08,06,19,Croatia,2,1,Wales
+1604,24,03,19,Wales,1,0,Slovakia
+1605,20,03,19,Wales,1,0,Trinidad and Tobago
+1606,20,11,18,Albania,1,0,Wales
+1607,16,11,18,Wales,1,2,Denmark
+1608,16,10,18,Ireland,0,1,Wales
+1609,11,10,18,Wales,1,4,Spain
+1610,09,09,18,Denmark,2,0,Wales
+1611,06,09,18,Wales,4,1,Ireland
+1612,29,05,18,Mexico,0,0,Wales
+1613,11,06,08,Switzerland,1,2,Turkey
+1614,16,11,05,Turkey,4,2,Switzerland
+1615,12,11,05,Switzerland,2,0,Turkey
+1616,26,04,95,Switzerland,1,2,Turkey
+1617,14,12,94,Turkey,1,2,Switzerland
+1618,30,04,75,Switzerland,1,1,Turkey
+1619,03,06,21,Switzerland,7,0,Liechtenstein
+1620,30,05,21,Switzerland,2,1,USA
+1621,31,03,21,Switzerland,3,2,Finland
+1622,28,03,21,Switzerland,1,0,Lithuania
+1623,25,03,21,Bulgaria,1,3,Switzerland
+1624,14,11,20,Switzerland,1,1,Spain
+1625,11,11,20,Belgium,2,1,Switzerland
+1626,13,10,20,Germany,3,3,Switzerland
+1627,10,10,20,Spain,1,0,Switzerland
+1628,07,10,20,Switzerland,1,2,Croatia
+1629,06,09,20,Switzerland,1,1,Germany
+1630,03,09,20,Ukraine,2,1,Switzerland
+1631,18,11,19,Gibraltar,1,6,Switzerland
+1632,15,11,19,Switzerland,1,0,Georgia
+1633,15,10,19,Switzerland,2,0,Ireland
+1634,12,10,19,Denmark,1,0,Switzerland
+1635,08,09,19,Switzerland,4,0,Gibraltar
+1636,05,09,19,Ireland,1,1,Switzerland
+1637,09,06,19,Switzerland,5,6,England
+1638,05,06,19,Portugal,3,1,Switzerland
+1639,26,03,19,Switzerland,3,3,Denmark
+1640,23,03,19,Georgia,0,2,Switzerland
+1641,18,11,18,Switzerland,5,2,Belgium
+1642,14,11,18,Switzerland,0,1,Qatar
+1643,15,10,18,Iceland,1,2,Switzerland
+1644,12,10,18,Belgium,2,1,Switzerland
+1645,11,09,18,England,1,0,Switzerland
+1646,08,09,18,Switzerland,6,0,Iceland
+1647,03,07,18,Sweden,1,0,Switzerland
+1648,03,06,21,Turkey,2,0,Moldova
+1649,31,05,21,Turkey,0,0,Guinea
+1650,27,05,21,Turkey,2,1,Azerbaijan
+1651,30,03,21,Turkey,3,3,Latvia
+1652,27,03,21,Norway,0,3,Turkey
+1653,24,03,21,Turkey,4,2,Netherlands
+1654,18,11,20,Hungary,2,0,Turkey
+1655,15,11,20,Turkey,3,2,Russia
+1656,11,11,20,Turkey,3,3,Croatia
+1657,14,10,20,Turkey,2,2,Serbia
+1658,11,10,20,Russia,1,1,Turkey
+1659,07,10,20,Germany,3,3,Turkey
+1660,06,09,20,Serbia,0,0,Turkey
+1661,03,09,20,Turkey,0,1,Hungary
+1662,17,11,19,Andorra,0,2,Turkey
+1663,14,11,19,Turkey,0,0,Iceland
+1664,14,10,19,France,1,1,Turkey
+1665,11,10,19,Turkey,1,0,Albania
+1666,10,09,19,Moldova,0,4,Turkey
+1667,07,09,19,Turkey,1,0,Andorra
+1668,11,06,19,Iceland,2,1,Turkey
+1669,08,06,19,Turkey,2,0,France
+1670,02,06,19,Turkey,2,0,Uzbekistan
+1671,30,05,19,Turkey,2,1,Greece
+1672,25,03,19,Turkey,4,0,Moldova
+1673,22,03,19,Albania,0,2,Turkey
+1674,20,11,18,Turkey,0,0,Ukraine
+1675,17,11,18,Turkey,0,1,Sweden
+1676,14,10,18,Russia,2,0,Turkey
+1677,11,10,18,Turkey,0,0,Bosnia & Herzegovina
+1678,01,04,09,Netherlands,4,0,North Macedonia
+1679,10,09,08,North Macedonia,1,2,Netherlands
+1680,12,10,05,Netherlands,0,0,North Macedonia
+1681,09,10,04,North Macedonia,2,2,Netherlands
+1682,04,06,21,North Macedonia,4,0,Kazakhstan
+1683,01,06,21,North Macedonia,1,1,Slovenia
+1684,31,03,21,Germany,1,2,North Macedonia
+1685,28,03,21,North Macedonia,5,0,Liechtenstein
+1686,25,03,21,Romania,3,2,North Macedonia
+1687,18,11,20,Armenia,1,0,North Macedonia
+1688,15,11,20,North Macedonia,2,1,Estonia
+1689,12,11,20,Georgia,0,1,North Macedonia
+1690,14,10,20,North Macedonia,1,1,Georgia
+1691,11,10,20,Estonia,3,3,North Macedonia
+1692,08,10,20,North Macedonia,2,1,Kosovo
+1693,08,09,20,Georgia,1,1,North Macedonia
+1694,05,09,20,North Macedonia,2,1,Armenia
+1695,19,11,19,North Macedonia,1,0,Israel
+1696,16,11,19,Austria,2,1,North Macedonia
+1697,13,10,19,Poland,2,0,North Macedonia
+1698,10,10,19,North Macedonia,2,1,Slovenia
+1699,09,09,19,Latvia,0,2,North Macedonia
+1700,05,09,19,Israel,1,1,North Macedonia
+1701,10,06,19,North Macedonia,1,4,Austria
+1702,07,06,19,North Macedonia,0,1,Poland
+1703,24,03,19,Slovenia,1,1,North Macedonia
+1704,21,03,19,North Macedonia,3,1,Latvia
+1705,19,11,18,North Macedonia,4,0,Gibraltar
+1706,16,11,18,Liechtenstein,0,2,North Macedonia
+1707,16,10,18,Armenia,4,0,North Macedonia
+1708,13,10,18,North Macedonia,4,1,Liechtenstein
+1709,09,09,18,North Macedonia,2,0,Armenia
+1710,06,09,18,Gibraltar,0,2,North Macedonia
+1711,27,03,18,Azerbaijan,1,1,North Macedonia
+1712,06,06,21,Netherlands,3,0,Georgia
+1713,02,06,21,Netherlands,2,2,Scotland
+1714,30,03,21,Gibraltar,0,7,Netherlands
+1715,27,03,21,Netherlands,2,0,Latvia
+1716,24,03,21,Turkey,4,2,Netherlands
+1717,18,11,20,Poland,1,2,Netherlands
+1718,15,11,20,Netherlands,3,1,Bosnia & Herzegovina
+1719,11,11,20,Netherlands,1,1,Spain
+1720,14,10,20,Italy,1,1,Netherlands
+1721,11,10,20,Bosnia & Herzegovina,0,0,Netherlands
+1722,07,10,20,Netherlands,0,1,Mexico
+1723,07,09,20,Netherlands,0,1,Italy
+1724,04,09,20,Netherlands,1,0,Poland
+1725,19,11,19,Netherlands,5,0,Estonia
+1726,16,11,19,Northern Ireland,0,0,Netherlands
+1727,13,10,19,Belarus,1,2,Netherlands
+1728,10,10,19,Netherlands,3,1,Northern Ireland
+1729,09,09,19,Estonia,0,4,Netherlands
+1730,06,09,19,Germany,2,4,Netherlands
+1731,09,06,19,Portugal,1,0,Netherlands
+1732,06,06,19,Netherlands,3,1,England
+1733,24,03,19,Netherlands,2,3,Germany
+1734,21,03,19,Netherlands,4,0,Belarus
+1735,19,11,18,Germany,2,2,Netherlands
+1736,16,11,18,Netherlands,2,0,France
+1737,16,10,18,Belgium,1,1,Netherlands
+1738,13,10,18,Netherlands,3,0,Germany
+1739,09,09,18,France,2,1,Netherlands
+1740,06,09,18,Netherlands,2,1,Peru
+1741,04,06,18,Italy,1,1,Netherlands
+1742,01,06,12,Austria,3,2,Ukraine
+1743,15,11,11,Ukraine,2,1,Austria
+1744,07,06,21,Ukraine,4,0,Cyprus
+1745,03,06,21,Ukraine,1,0,Northern Ireland
+1746,23,05,21,Ukraine,1,1,Bahrain
+1747,31,03,21,Ukraine,1,1,Kazakhstan
+1748,28,03,21,Ukraine,1,1,Finland
+1749,24,03,21,France,1,1,Ukraine
+1750,14,11,20,Germany,3,1,Ukraine
+1751,11,11,20,Poland,2,0,Ukraine
+1752,13,10,20,Ukraine,1,0,Spain
+1753,10,10,20,Ukraine,1,2,Germany
+1754,07,10,20,France,7,1,Ukraine
+1755,06,09,20,Spain,4,0,Ukraine
+1756,03,09,20,Ukraine,2,1,Switzerland
+1757,17,11,19,Serbia,2,2,Ukraine
+1758,14,11,19,Ukraine,1,0,Estonia
+1759,14,10,19,Ukraine,2,1,Portugal
+1760,11,10,19,Ukraine,2,0,Lithuania
+1761,10,09,19,Ukraine,2,2,Nigeria
+1762,07,09,19,Lithuania,0,3,Ukraine
+1763,10,06,19,Ukraine,1,0,Luxembourg
+1764,07,06,19,Ukraine,5,0,Serbia
+1765,25,03,19,Luxembourg,1,2,Ukraine
+1766,22,03,19,Portugal,0,0,Ukraine
+1767,20,11,18,Turkey,0,0,Ukraine
+1768,16,11,18,Slovakia,4,1,Ukraine
+1769,16,10,18,Ukraine,1,0,Czech Republic
+1770,10,10,18,Italy,1,1,Ukraine
+1771,09,09,18,Ukraine,1,0,Slovakia
+1772,06,09,18,Czech Republic,1,2,Ukraine
+1773,06,06,21,Austria,0,0,Slovakia
+1774,02,06,21,England,1,0,Austria
+1775,31,03,21,Austria,0,4,Denmark
+1776,28,03,21,Austria,3,1,Faroe Islands
+1777,25,03,21,Scotland,2,2,Austria
+1778,18,11,20,Austria,1,1,Norway
+1779,15,11,20,Austria,2,1,Northern Ireland
+1780,11,11,20,Luxembourg,0,3,Austria
+1781,14,10,20,Romania,0,1,Austria
+1782,11,10,20,Northern Ireland,0,1,Austria
+1783,07,10,20,Austria,2,1,Greece
+1784,07,09,20,Austria,2,3,Romania
+1785,04,09,20,Norway,1,2,Austria
+1786,19,11,19,Latvia,1,0,Austria
+1787,16,11,19,Austria,2,1,North Macedonia
+1788,13,10,19,Slovenia,0,1,Austria
+1789,10,10,19,Austria,3,1,Israel
+1790,09,09,19,Poland,0,0,Austria
+1791,06,09,19,Austria,6,0,Latvia
+1792,10,06,19,North Macedonia,1,4,Austria
+1793,07,06,19,Austria,1,0,Slovenia
+1794,24,03,19,Israel,4,2,Austria
+1795,21,03,19,Austria,0,1,Poland
+1796,18,11,18,Northern Ireland,1,2,Austria
+1797,15,11,18,Austria,0,0,Bosnia & Herzegovina
+1798,16,10,18,Denmark,2,0,Austria
+1799,12,10,18,Austria,1,0,Northern Ireland
+1800,11,09,18,Bosnia & Herzegovina,1,0,Austria
+1801,06,09,18,Austria,2,0,Sweden
+1802,10,06,18,Austria,0,3,Brazil
+1803,01,06,16,Belgium,1,1,Finland
+1804,09,02,11,Belgium,1,1,Finland
+1805,11,08,10,Finland,1,0,Belgium
+1806,13,10,07,Belgium,0,0,Finland
+1807,06,06,07,Finland,2,0,Belgium
+1808,04,06,21,Finland,0,1,Estonia
+1809,29,05,21,Sweden,2,0,Finland
+1810,31,03,21,Switzerland,3,2,Finland
+1811,28,03,21,Ukraine,1,1,Finland
+1812,24,03,21,Finland,2,2,Bosnia & Herzegovina
+1813,18,11,20,Wales,3,1,Finland
+1814,15,11,20,Bulgaria,1,2,Finland
+1815,11,11,20,France,0,2,Finland
+1816,14,10,20,Finland,1,0,Ireland
+1817,11,10,20,Finland,2,0,Bulgaria
+1818,07,10,20,Poland,5,1,Finland
+1819,06,09,20,Ireland,0,1,Finland
+1820,03,09,20,Finland,0,1,Wales
+1821,18,11,19,Greece,2,1,Finland
+1822,15,11,19,Finland,3,0,Liechtenstein
+1823,15,10,19,Finland,3,0,Armenia
+1824,12,10,19,Bosnia & Herzegovina,4,1,Finland
+1825,08,09,19,Finland,1,2,Italy
+1826,05,09,19,Finland,1,0,Greece
+1827,11,06,19,Liechtenstein,0,2,Finland
+1828,08,06,19,Finland,2,0,Bosnia & Herzegovina
+1829,26,03,19,Armenia,0,2,Finland
+1830,23,03,19,Italy,2,0,Finland
+1831,11,01,19,Finland,1,2,Estonia
+1832,08,01,19,Sweden,0,1,Finland
+1833,18,11,18,Hungary,2,0,Finland
+1834,15,11,18,Greece,1,0,Finland
+1835,15,10,18,Finland,2,0,Greece
+1836,12,10,18,Estonia,0,1,Finland
+1837,11,09,18,Finland,1,0,Estonia
+1838,06,06,21,Belgium,1,0,Croatia
+1839,03,06,21,Belgium,1,1,Greece
+1840,30,03,21,Belgium,8,0,Belarus
+1841,27,03,21,Czech Republic,1,1,Belgium
+1842,24,03,21,Belgium,3,1,Wales
+1843,18,11,20,Belgium,4,2,Denmark
+1844,15,11,20,Belgium,2,0,England
+1845,11,11,20,Belgium,2,1,Switzerland
+1846,14,10,20,Iceland,1,2,Belgium
+1847,11,10,20,England,2,1,Belgium
+1848,08,10,20,Belgium,1,1,Ivory Coast
+1849,08,09,20,Belgium,5,1,Iceland
+1850,05,09,20,Denmark,0,2,Belgium
+1851,19,11,19,Belgium,6,1,Cyprus
+1852,16,11,19,Russia,1,4,Belgium
+1853,13,10,19,Kazakhstan,0,2,Belgium
+1854,10,10,19,Belgium,9,0,San Marino
+1855,09,09,19,Scotland,0,4,Belgium
+1856,06,09,19,San Marino,0,4,Belgium
+1857,11,06,19,Belgium,3,0,Scotland
+1858,08,06,19,Belgium,3,0,Kazakhstan
+1859,24,03,19,Cyprus,0,2,Belgium
+1860,21,03,19,Belgium,3,1,Russia
+1861,18,11,18,Switzerland,5,2,Belgium
+1862,15,11,18,Belgium,2,0,Iceland
+1863,16,10,18,Belgium,1,1,Netherlands
+1864,12,10,18,Belgium,2,1,Switzerland
+1865,11,09,18,Iceland,0,3,Belgium
+1866,07,09,18,Scotland,0,4,Belgium
+1867,14,07,18,Belgium,2,0,England
+1868,29,02,12,Denmark,0,2,Russia
+1869,05,06,21,Russia,1,0,Bulgaria
+1870,01,06,21,Poland,1,1,Russia
+1871,30,03,21,Slovakia,2,1,Russia
+1872,27,03,21,Russia,2,1,Slovenia
+1873,24,03,21,Malta,1,3,Russia
+1874,18,11,20,Serbia,5,0,Russia
+1875,15,11,20,Turkey,3,2,Russia
+1876,12,11,20,Moldova,0,0,Russia
+1877,14,10,20,Russia,0,0,Hungary
+1878,11,10,20,Russia,1,1,Turkey
+1879,08,10,20,Russia,1,2,Sweden
+1880,06,09,20,Hungary,2,3,Russia
+1881,03,09,20,Russia,3,1,Serbia
+1882,19,11,19,San Marino,0,5,Russia
+1883,16,11,19,Russia,1,4,Belgium
+1884,13,10,19,Cyprus,0,5,Russia
+1885,10,10,19,Russia,4,0,Scotland
+1886,09,09,19,Russia,1,0,Kazakhstan
+1887,06,09,19,Scotland,1,2,Russia
+1888,11,06,19,Russia,1,0,Cyprus
+1889,08,06,19,Russia,9,0,San Marino
+1890,24,03,19,Kazakhstan,0,4,Russia
+1891,21,03,19,Belgium,3,1,Russia
+1892,20,11,18,Sweden,2,0,Russia
+1893,15,11,18,Germany,3,0,Russia
+1894,14,10,18,Russia,2,0,Turkey
+1895,11,10,18,Russia,0,0,Sweden
+1896,10,09,18,Russia,5,1,Czech Republic
+1897,07,09,18,Turkey,1,2,Russia
+1898,07,07,18,Russia,3,4,Croatia
+1899,06,06,21,Denmark,2,0,Bosnia & Herzegovina
+1900,02,06,21,Germany,1,1,Denmark
+1901,31,03,21,Austria,0,4,Denmark
+1902,28,03,21,Denmark,8,0,Moldova
+1903,25,03,21,Israel,0,2,Denmark
+1904,18,11,20,Belgium,4,2,Denmark
+1905,15,11,20,Denmark,2,1,Iceland
+1906,11,11,20,Denmark,2,0,Sweden
+1907,14,10,20,England,0,1,Denmark
+1908,11,10,20,Iceland,0,3,Denmark
+1909,07,10,20,Denmark,4,0,Faroe Islands
+1910,08,09,20,Denmark,0,0,England
+1911,05,09,20,Denmark,0,2,Belgium
+1912,18,11,19,Ireland,1,1,Denmark
+1913,15,11,19,Denmark,6,0,Gibraltar
+1914,15,10,19,Denmark,4,0,Luxembourg
+1915,12,10,19,Denmark,1,0,Switzerland
+1916,08,09,19,Georgia,0,0,Denmark
+1917,05,09,19,Gibraltar,0,6,Denmark
+1918,10,06,19,Denmark,5,1,Georgia
+1919,07,06,19,Denmark,1,1,Ireland
+1920,26,03,19,Switzerland,3,3,Denmark
+1921,21,03,19,Kosovo,2,2,Denmark
+1922,19,11,18,Denmark,0,0,Ireland
+1923,16,11,18,Wales,1,2,Denmark
+1924,16,10,18,Denmark,2,0,Austria
+1925,13,10,18,Ireland,0,0,Denmark
+1926,09,09,18,Denmark,2,0,Wales
+1927,05,09,18,Slovakia,3,0,Denmark
+1928,01,07,18,Croatia,3,2,Denmark
+1929,15,10,13,Scotland,2,0,Croatia
+1930,07,06,13,Croatia,0,1,Scotland
+1931,26,03,08,Scotland,1,1,Croatia
+1932,06,06,21,Belgium,1,0,Croatia
+1933,01,06,21,Croatia,1,1,Armenia
+1934,30,03,21,Croatia,3,0,Malta
+1935,27,03,21,Croatia,1,0,Cyprus
+1936,24,03,21,Slovenia,1,0,Croatia
+1937,17,11,20,Croatia,2,3,Portugal
+1938,14,11,20,Sweden,2,1,Croatia
+1939,11,11,20,Turkey,3,3,Croatia
+1940,14,10,20,Croatia,1,2,France
+1941,11,10,20,Croatia,2,1,Sweden
+1942,07,10,20,Switzerland,1,2,Croatia
+1943,08,09,20,France,4,2,Croatia
+1944,05,09,20,Portugal,4,1,Croatia
+1945,19,11,19,Croatia,2,1,Georgia
+1946,16,11,19,Croatia,3,1,Slovakia
+1947,13,10,19,Wales,1,1,Croatia
+1948,10,10,19,Croatia,3,0,Hungary
+1949,09,09,19,Azerbaijan,1,1,Croatia
+1950,06,09,19,Slovakia,0,4,Croatia
+1951,11,06,19,Croatia,1,2,Tunisia
+1952,08,06,19,Croatia,2,1,Wales
+1953,24,03,19,Hungary,2,1,Croatia
+1954,21,03,19,Croatia,2,1,Azerbaijan
+1955,18,11,18,England,2,1,Croatia
+1956,15,11,18,Croatia,3,2,Spain
+1957,15,10,18,Croatia,2,1,Jordan
+1958,12,10,18,Croatia,0,0,England
+1959,11,09,18,Spain,6,0,Croatia
+1960,06,09,18,Portugal,1,1,Croatia
+1961,15,07,18,France,4,2,Croatia
+1962,06,06,21,Luxembourg,0,1,Scotland
+1963,02,06,21,Netherlands,2,2,Scotland
+1964,31,03,21,Scotland,4,0,Faroe Islands
+1965,28,03,21,Israel,1,1,Scotland
+1966,25,03,21,Scotland,2,2,Austria
+1967,18,11,20,Israel,1,0,Scotland
+1968,15,11,20,Slovakia,1,0,Scotland
+1969,12,11,20,Serbia,4,5,Scotland
+1970,14,10,20,Scotland,1,0,Czech Republic
+1971,11,10,20,Scotland,1,0,Slovakia
+1972,08,10,20,Scotland,5,3,Israel
+1973,07,09,20,Czech Republic,1,2,Scotland
+1974,04,09,20,Scotland,1,1,Israel
+1975,19,11,19,Scotland,3,1,Kazakhstan
+1976,16,11,19,Cyprus,1,2,Scotland
+1977,13,10,19,Scotland,6,0,San Marino
+1978,10,10,19,Russia,4,0,Scotland
+1979,09,09,19,Scotland,0,4,Belgium
+1980,06,09,19,Scotland,1,2,Russia
+1981,11,06,19,Belgium,3,0,Scotland
+1982,08,06,19,Scotland,2,1,Cyprus
+1983,24,03,19,San Marino,0,2,Scotland
+1984,21,03,19,Kazakhstan,3,0,Scotland
+1985,20,11,18,Scotland,3,2,Israel
+1986,17,11,18,Albania,0,4,Scotland
+1987,14,10,18,Scotland,1,3,Portugal
+1988,11,10,18,Israel,2,1,Scotland
+1989,10,09,18,Scotland,2,0,Albania
+1990,07,09,18,Scotland,0,4,Belgium
+1991,03,06,18,Mexico,1,0,Scotland
+1992,11,10,19,Czech Republic,2,1,England
+1993,22,03,19,England,5,0,Czech Republic
+1994,20,08,08,England,2,2,Czech Republic
+1995,08,06,21,Czech Republic,3,1,Albania
+1996,04,06,21,Italy,4,0,Czech Republic
+1997,30,03,21,Wales,1,0,Czech Republic
+1998,27,03,21,Czech Republic,1,1,Belgium
+1999,24,03,21,Estonia,2,6,Czech Republic
+2000,18,11,20,Czech Republic,2,0,Slovakia
+2001,15,11,20,Czech Republic,1,0,Israel
+2002,11,11,20,Germany,1,0,Czech Republic
+2003,14,10,20,Scotland,1,0,Czech Republic
+2004,11,10,20,Israel,1,2,Czech Republic
+2005,07,10,20,Cyprus,1,2,Czech Republic
+2006,07,09,20,Czech Republic,1,2,Scotland
+2007,04,09,20,Slovakia,1,3,Czech Republic
+2008,17,11,19,Bulgaria,1,0,Czech Republic
+2009,14,11,19,Czech Republic,2,1,Kosovo
+2010,14,10,19,Czech Republic,2,3,Northern Ireland
+2011,11,10,19,Czech Republic,2,1,England
+2012,10,09,19,Montenegro,0,3,Czech Republic
+2013,07,09,19,Kosovo,2,1,Czech Republic
+2014,10,06,19,Czech Republic,3,0,Montenegro
+2015,07,06,19,Czech Republic,2,1,Bulgaria
+2016,26,03,19,Czech Republic,1,3,Brazil
+2017,22,03,19,England,5,0,Czech Republic
+2018,19,11,18,Czech Republic,1,0,Slovakia
+2019,15,11,18,Poland,0,1,Czech Republic
+2020,16,10,18,Ukraine,1,0,Czech Republic
+2021,13,10,18,Slovakia,1,2,Czech Republic
+2022,10,09,18,Russia,5,1,Czech Republic
+2023,06,09,18,Czech Republic,1,2,Ukraine
+2024,06,06,18,Czech Republic,1,0,Nigeria
+2025,06,06,21,England,1,0,Romania
+2026,02,06,21,England,1,0,Austria
+2027,31,03,21,England,2,1,Poland
+2028,28,03,21,Albania,0,2,England
+2029,25,03,21,England,5,0,San Marino
+2030,18,11,20,England,4,0,Iceland
+2031,15,11,20,Belgium,2,0,England
+2032,12,11,20,England,3,0,Ireland
+2033,14,10,20,England,0,1,Denmark
+2034,11,10,20,England,2,1,Belgium
+2035,08,10,20,England,3,0,Wales
+2036,08,09,20,Denmark,0,0,England
+2037,05,09,20,Iceland,0,1,England
+2038,17,11,19,Kosovo,0,4,England
+2039,14,11,19,England,7,0,Montenegro
+2040,14,10,19,Bulgaria,0,6,England
+2041,11,10,19,Czech Republic,2,1,England
+2042,10,09,19,England,5,3,Kosovo
+2043,07,09,19,England,4,0,Bulgaria
+2044,09,06,19,Switzerland,5,6,England
+2045,06,06,19,Netherlands,3,1,England
+2046,25,03,19,Montenegro,1,5,England
+2047,22,03,19,England,5,0,Czech Republic
+2048,18,11,18,England,2,1,Croatia
+2049,15,11,18,England,3,0,USA
+2050,15,10,18,Spain,2,3,England
+2051,12,10,18,Croatia,0,0,England
+2052,11,09,18,England,1,0,Switzerland
+2053,08,09,18,England,1,2,Spain
+2054,14,07,18,Belgium,2,0,England
+2055,05,09,15,Spain,2,0,Slovakia
+2056,09,10,14,Slovakia,2,1,Spain
+2057,16,11,05,Slovakia,1,1,Spain
+2058,12,11,05,Spain,5,1,Slovakia
+2059,06,06,21,Austria,0,0,Slovakia
+2060,01,06,21,Slovakia,1,1,Bulgaria
+2061,30,03,21,Slovakia,2,1,Russia
+2062,27,03,21,Slovakia,2,2,Malta
+2063,24,03,21,Cyprus,0,0,Slovakia
+2064,18,11,20,Czech Republic,2,0,Slovakia
+2065,15,11,20,Slovakia,1,0,Scotland
+2066,12,11,20,Northern Ireland,1,2,Slovakia
+2067,14,10,20,Slovakia,2,3,Israel
+2068,11,10,20,Scotland,1,0,Slovakia
+2069,08,10,20,Slovakia,4,2,Ireland
+2070,07,09,20,Israel,1,1,Slovakia
+2071,04,09,20,Slovakia,1,3,Czech Republic
+2072,19,11,19,Slovakia,2,0,Azerbaijan
+2073,16,11,19,Croatia,3,1,Slovakia
+2074,13,10,19,Slovakia,1,1,Paraguay
+2075,10,10,19,Slovakia,1,1,Wales
+2076,09,09,19,Hungary,1,2,Slovakia
+2077,06,09,19,Slovakia,0,4,Croatia
+2078,11,06,19,Azerbaijan,1,5,Slovakia
+2079,07,06,19,Slovakia,5,1,Jordan
+2080,24,03,19,Wales,1,0,Slovakia
+2081,21,03,19,Slovakia,2,0,Hungary
+2082,19,11,18,Czech Republic,1,0,Slovakia
+2083,16,11,18,Slovakia,4,1,Ukraine
+2084,16,10,18,Sweden,1,1,Slovakia
+2085,13,10,18,Slovakia,1,2,Czech Republic
+2086,09,09,18,Ukraine,1,0,Slovakia
+2087,05,09,18,Slovakia,3,0,Denmark
+2088,04,06,18,Slovakia,1,2,Morocco
+2089,04,06,21,Spain,0,0,Portugal
+2090,31,03,21,Spain,3,1,Kosovo
+2091,28,03,21,Georgia,1,2,Spain
+2092,25,03,21,Spain,1,1,Greece
+2093,17,11,20,Spain,6,0,Germany
+2094,14,11,20,Switzerland,1,1,Spain
+2095,11,11,20,Netherlands,1,1,Spain
+2096,13,10,20,Ukraine,1,0,Spain
+2097,10,10,20,Spain,1,0,Switzerland
+2098,07,10,20,Portugal,0,0,Spain
+2099,06,09,20,Spain,4,0,Ukraine
+2100,03,09,20,Germany,1,1,Spain
+2101,18,11,19,Spain,5,0,Romania
+2102,15,11,19,Spain,7,0,Malta
+2103,15,10,19,Sweden,1,1,Spain
+2104,12,10,19,Norway,1,1,Spain
+2105,08,09,19,Spain,4,0,Faroe Islands
+2106,05,09,19,Romania,1,2,Spain
+2107,10,06,19,Spain,3,0,Sweden
+2108,07,06,19,Faroe Islands,1,4,Spain
+2109,26,03,19,Malta,0,2,Spain
+2110,23,03,19,Spain,2,1,Norway
+2111,18,11,18,Spain,1,0,Bosnia & Herzegovina
+2112,15,11,18,Croatia,3,2,Spain
+2113,15,10,18,Spain,2,3,England
+2114,11,10,18,Wales,1,4,Spain
+2115,11,09,18,Spain,6,0,Croatia
+2116,08,09,18,England,1,2,Spain
+2117,01,07,18,Spain,3,4,Russia
+2118,25,06,18,Spain,2,2,Morocco
+2119,05,06,04,Sweden,3,1,Poland
+2120,10,09,03,Poland,0,2,Sweden
+2121,11,06,03,Sweden,3,0,Poland
+2122,09,10,99,Sweden,2,0,Poland
+2123,31,03,99,Poland,0,1,Sweden
+2124,26,06,74,Sweden,0,1,Poland
+2125,05,06,21,Sweden,3,1,Armenia
+2126,29,05,21,Sweden,2,0,Finland
+2127,31,03,21,Sweden,1,0,Estonia
+2128,28,03,21,Kosovo,0,3,Sweden
+2129,25,03,21,Sweden,1,0,Georgia
+2130,17,11,20,France,4,2,Sweden
+2131,14,11,20,Sweden,2,1,Croatia
+2132,11,11,20,Denmark,2,0,Sweden
+2133,14,10,20,Portugal,3,0,Sweden
+2134,11,10,20,Croatia,2,1,Sweden
+2135,08,10,20,Russia,1,2,Sweden
+2136,08,09,20,Sweden,0,2,Portugal
+2137,05,09,20,Sweden,0,1,France
+2138,12,01,20,Sweden,1,0,Kosovo
+2139,09,01,20,Sweden,1,0,Moldova
+2140,18,11,19,Sweden,3,0,Faroe Islands
+2141,15,11,19,Romania,0,2,Sweden
+2142,15,10,19,Sweden,1,1,Spain
+2143,12,10,19,Malta,0,4,Sweden
+2144,08,09,19,Sweden,1,1,Norway
+2145,05,09,19,Faroe Islands,0,4,Sweden
+2146,10,06,19,Spain,3,0,Sweden
+2147,07,06,19,Sweden,3,0,Malta
+2148,26,03,19,Norway,3,3,Sweden
+2149,23,03,19,Sweden,2,1,Romania
+2150,11,01,19,Sweden,2,2,Iceland
+2151,08,01,19,Sweden,0,1,Finland
+2152,20,11,18,Sweden,2,0,Russia
+2153,17,11,18,Turkey,0,1,Sweden
+2154,16,10,18,Sweden,1,1,Slovakia
+2155,08,06,21,Poland,2,2,Iceland
+2156,01,06,21,Poland,1,1,Russia
+2157,31,03,21,England,2,1,Poland
+2158,28,03,21,Poland,3,0,Andorra
+2159,25,03,21,Hungary,3,3,Poland
+2160,18,11,20,Poland,1,2,Netherlands
+2161,15,11,20,Italy,2,0,Poland
+2162,11,11,20,Poland,2,0,Ukraine
+2163,14,10,20,Poland,3,0,Bosnia & Herzegovina
+2164,11,10,20,Poland,0,0,Italy
+2165,07,10,20,Poland,5,1,Finland
+2166,07,09,20,Bosnia & Herzegovina,1,2,Poland
+2167,04,09,20,Netherlands,1,0,Poland
+2168,19,11,19,Poland,3,2,Slovenia
+2169,16,11,19,Israel,1,2,Poland
+2170,13,10,19,Poland,2,0,North Macedonia
+2171,10,10,19,Latvia,0,3,Poland
+2172,09,09,19,Poland,0,0,Austria
+2173,06,09,19,Slovenia,2,0,Poland
+2174,10,06,19,Poland,4,0,Israel
+2175,07,06,19,North Macedonia,0,1,Poland
+2176,24,03,19,Poland,2,0,Latvia
+2177,21,03,19,Austria,0,1,Poland
+2178,20,11,18,Portugal,1,1,Poland
+2179,15,11,18,Poland,0,1,Czech Republic
+2180,14,10,18,Poland,0,1,Italy
+2181,11,10,18,Poland,2,3,Portugal
+2182,11,09,18,Poland,1,1,Ireland
+2183,07,09,18,Italy,1,1,Poland
+2184,28,06,18,Japan,0,1,Poland
+2185,04,06,16,Germany,2,0,Hungary
+2186,29,05,10,Hungary,0,3,Germany
+2187,06,06,04,Germany,0,2,Hungary
+2188,07,06,21,Germany,7,1,Latvia
+2189,02,06,21,Germany,1,1,Denmark
+2190,31,03,21,Germany,1,2,North Macedonia
+2191,28,03,21,Romania,0,1,Germany
+2192,25,03,21,Germany,3,0,Iceland
+2193,17,11,20,Spain,6,0,Germany
+2194,14,11,20,Germany,3,1,Ukraine
+2195,11,11,20,Germany,1,0,Czech Republic
+2196,13,10,20,Germany,3,3,Switzerland
+2197,10,10,20,Ukraine,1,2,Germany
+2198,07,10,20,Germany,3,3,Turkey
+2199,06,09,20,Switzerland,1,1,Germany
+2200,03,09,20,Germany,1,1,Spain
+2201,19,11,19,Germany,6,1,Northern Ireland
+2202,16,11,19,Germany,4,0,Belarus
+2203,13,10,19,Estonia,0,3,Germany
+2204,09,10,19,Germany,2,2,Argentina
+2205,09,09,19,Northern Ireland,0,2,Germany
+2206,06,09,19,Germany,2,4,Netherlands
+2207,11,06,19,Germany,8,0,Estonia
+2208,08,06,19,Belarus,0,2,Germany
+2209,24,03,19,Netherlands,2,3,Germany
+2210,20,03,19,Germany,1,1,Serbia
+2211,19,11,18,Germany,2,2,Netherlands
+2212,15,11,18,Germany,3,0,Russia
+2213,16,10,18,France,2,1,Germany
+2214,13,10,18,Netherlands,3,0,Germany
+2215,09,09,18,Germany,2,1,Peru
+2216,06,09,18,Germany,0,0,France
+2217,27,06,18,Korea Republic,2,0,Germany
+2218,08,06,21,Hungary,0,0,Ireland
+2219,04,06,21,Hungary,1,0,Cyprus
+2220,31,03,21,Andorra,1,4,Hungary
+2221,28,03,21,San Marino,0,3,Hungary
+2222,25,03,21,Hungary,3,3,Poland
+2223,18,11,20,Hungary,2,0,Turkey
+2224,15,11,20,Hungary,1,1,Serbia
+2225,12,11,20,Hungary,2,1,Iceland
+2226,14,10,20,Russia,0,0,Hungary
+2227,11,10,20,Serbia,0,1,Hungary
+2228,08,10,20,Bulgaria,1,3,Hungary
+2229,06,09,20,Hungary,2,3,Russia
+2230,03,09,20,Turkey,0,1,Hungary
+2231,19,11,19,Wales,2,0,Hungary
+2232,15,11,19,Hungary,1,2,Uruguay
+2233,13,10,19,Hungary,1,0,Azerbaijan
+2234,10,10,19,Croatia,3,0,Hungary
+2235,09,09,19,Hungary,1,2,Slovakia
+2236,05,09,19,Montenegro,2,1,Hungary
+2237,11,06,19,Hungary,1,0,Wales
+2238,08,06,19,Azerbaijan,1,3,Hungary
+2239,24,03,19,Hungary,2,1,Croatia
+2240,21,03,19,Slovakia,2,0,Hungary
+2241,18,11,18,Hungary,2,0,Finland
+2242,15,11,18,Hungary,2,0,Estonia
+2243,15,10,18,Estonia,3,3,Hungary
+2244,12,10,18,Greece,1,0,Hungary
+2245,11,09,18,Hungary,2,1,Greece
+2246,08,09,18,Finland,1,0,Hungary
+2247,09,06,18,Hungary,1,2,Australia
+2248,14,11,20,Portugal,0,1,France
+2249,11,10,20,France,0,0,Portugal
+2250,10,07,16,Portugal,1,0,France
+2251,04,09,15,Portugal,0,1,France
+2252,11,10,14,France,2,1,Portugal
+2253,05,07,06,Portugal,0,1,France
+2254,09,06,21,Portugal,4,0,Israel
+2255,04,06,21,Spain,0,0,Portugal
+2256,30,03,21,Luxembourg,1,3,Portugal
+2257,27,03,21,Serbia,2,2,Portugal
+2258,24,03,21,Portugal,1,0,Azerbaijan
+2259,17,11,20,Croatia,2,3,Portugal
+2260,14,11,20,Portugal,0,1,France
+2261,11,11,20,Portugal,7,0,Andorra
+2262,14,10,20,Portugal,3,0,Sweden
+2263,11,10,20,France,0,0,Portugal
+2264,07,10,20,Portugal,0,0,Spain
+2265,08,09,20,Sweden,0,2,Portugal
+2266,05,09,20,Portugal,4,1,Croatia
+2267,17,11,19,Luxembourg,0,2,Portugal
+2268,14,11,19,Portugal,6,0,Lithuania
+2269,14,10,19,Ukraine,2,1,Portugal
+2270,11,10,19,Portugal,3,0,Luxembourg
+2271,10,09,19,Lithuania,1,5,Portugal
+2272,07,09,19,Serbia,2,4,Portugal
+2273,09,06,19,Portugal,1,0,Netherlands
+2274,05,06,19,Portugal,3,1,Switzerland
+2275,25,03,19,Portugal,1,1,Serbia
+2276,22,03,19,Portugal,0,0,Ukraine
+2277,20,11,18,Portugal,1,1,Poland
+2278,17,11,18,Italy,0,0,Portugal
+2279,14,10,18,Scotland,1,3,Portugal
+2280,11,10,18,Poland,2,3,Portugal
+2281,10,09,18,Portugal,1,0,Italy
+2282,06,09,18,Portugal,1,1,Croatia
+2283,30,06,18,Uruguay,2,1,Portugal
+2284,08,06,21,France,3,0,Bulgaria
+2285,02,06,21,France,3,0,Wales
+2286,31,03,21,Bosnia & Herzegovina,0,1,France
+2287,28,03,21,Kazakhstan,0,2,France
+2288,24,03,21,France,1,1,Ukraine
+2289,17,11,20,France,4,2,Sweden
+2290,14,11,20,Portugal,0,1,France
+2291,11,11,20,France,0,2,Finland
+2292,14,10,20,Croatia,1,2,France
+2293,11,10,20,France,0,0,Portugal
+2294,07,10,20,France,7,1,Ukraine
+2295,08,09,20,France,4,2,Croatia
+2296,05,09,20,Sweden,0,1,France
+2297,17,11,19,Albania,0,2,France
+2298,14,11,19,France,2,1,Moldova
+2299,14,10,19,France,1,1,Turkey
+2300,11,10,19,Iceland,0,1,France
+2301,10,09,19,France,3,0,Andorra
+2302,07,09,19,France,4,1,Albania
+2303,11,06,19,Andorra,0,4,France
+2304,08,06,19,Turkey,2,0,France
+2305,02,06,19,France,2,0,Bolivia
+2306,25,03,19,France,4,0,Iceland
+2307,22,03,19,Moldova,1,4,France
+2308,20,11,18,France,1,0,Uruguay
+2309,16,11,18,Netherlands,2,0,France
+2310,16,10,18,France,2,1,Germany
+2311,11,10,18,France,2,2,Iceland
+2312,09,09,18,France,2,1,Netherlands
+2313,06,09,18,Germany,0,0,France
