@@ -9,7 +9,7 @@ from DLBio.pytorch_helpers import get_device
 from game_plan_api import get_winner, run
 from helpers import load_model
 from tqdm import tqdm
-PATH = 'experiments/exp_1/exp_data/0009'
+PATH = 'used_model'
 
 
 class MyModel():
@@ -49,4 +49,4 @@ def winner_dist():
 
 if __name__ == '__main__':
     main()
-    winner_dist()
+    # winner_dist()
