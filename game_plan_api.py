@@ -75,6 +75,8 @@ def run(func, path='result.md'):
     else:
         print('Winner: ' + last_game['team1'])
 
+    return group_tables, all_games
+
 
 def get_winner(func):
     all_games = MyDataFrame()
