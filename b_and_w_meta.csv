@@ -1,0 +1,37 @@
+,team1,team2,prob1,prob_draw,prob2,current_form1,current_form2
+0,Turkey,Italy,13,21,66,71,100
+1,Wales,Switzerland,24,32,44,64,93
+2,Denmark,Finland,66,23,11,79,29
+3,Belgium,Russia,53,27,20,86,50
+4,England,Croatia,57,26,17,86,36
+5,Austria,North Macedonia,55,28,17,50,64
+6,Netherlands,Ukraine,59,25,16,79,57
+7,Scotland,Czech Republic,32,32,36,50,64
+8,Poland,Slovakia,52,29,19,36,57
+9,Spain,Sweden,66,22,12,71,86
+10,Hungary,Portugal,14,23,63,79,71
+11,France,Germany,36,31,33,93,64
+12,Finland,Russia,18,25,57,29,50
+13,Turkey,Wales,42,31,27,71,64
+14,Italy,Switzerland,54,26,20,100,93
+15,Ukraine,North Macedonia,58,26,16,57,64
+16,Denmark,Belgium,26,29,45,79,86
+17,Netherlands,Austria,59,25,16,79,50
+18,Sweden,Slovakia,52,29,19,86,57
+19,Croatia,Czech Republic,44,30,26,36,64
+20,England,Scotland,70,19,11,86,50
+21,Hungary,France,11,21,68,79,93
+22,Portugal,Germany,30,29,41,71,64
+23,Spain,Poland,63,22,15,71,36
+24,Italy,Wales,64,23,13,100,64
+25,Switzerland,Turkey,41,29,30,93,71
+26,North Macedonia,Netherlands,6,16,78,64,79
+27,Ukraine,Austria,34,30,36,57,50
+28,Finland,Belgium,8,16,76,29,86
+29,Russia,Denmark,24,27,49,50,79
+30,Croatia,Scotland,49,29,22,36,50
+31,Czech Republic,England,14,21,65,64,86
+32,Slovakia,Spain,7,16,77,57,71
+33,Sweden,Poland,38,29,33,86,36
+34,Germany,Hungary,75,16,9,64,79
+35,Portugal,France,30,29,41,71,93
