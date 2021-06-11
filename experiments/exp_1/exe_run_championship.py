@@ -14,10 +14,13 @@ PATH = 'used_model'
 
 class MyModel():
     def __init__(self, max_lk):
+        device = 'cpu'
         options = load_json(join(PATH, 'opt.json'))
         device = get_device()
         model = load_model(
-            options, device, new_model_path=join(PATH, 'model.pt'))
+            options, device, new_model_path=join(PATH, 'model.pt'),
+            map_location=torch.device(device)
+        )
         to_one_hot = get_one_hot()
         model.to_one_hot = to_one_hot
         model.d = device
@@ -33,13 +36,13 @@ class MyModel():
 
 def main():
     model = MyModel(True)
-    run(model)
+    run(model, 'test.md')
 
 
 def winner_dist():
     model = MyModel(False)
     winners_ = []
-    for _ in tqdm(range(1000)):
+    for _ in tqdm(range(100)):
         winner = get_winner(model)
         winners_.append(winner)
 
