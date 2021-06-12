@@ -6,3 +6,30 @@ GROUPS = {
     'e': ['Polen', 'Slowakei', 'Spanien', 'Schweden'],
     'f': ['Ungarn', 'Portugal', 'Frankreich', 'Deutschland'],
 }
+
+TRANSLATE = {
+    'Turkey': 'Türkei',
+    'Italy': 'Italien',
+    'Wales': 'Wales',
+    'Switzerland': 'Schweiz',
+    'Denmark': 'Dänemark',
+    'Finland': 'Finnland',
+    'Belgium': 'Belgien',
+    'Russia': 'Russland',
+    'Austria': 'Österreich',
+    'North Macedonia': 'Mazedonien',
+    'Netherlands': 'Niederlande',
+    'Ukraine': 'Ukraine',
+    'England': 'England',
+    'Croatia': 'Kroatien',
+    'Czech Republic': 'Tschechien',
+    'Scotland': 'Schottland',
+    'Poland': 'Polen',
+    'Slovakia': 'Slowakei',
+    'Spain': 'Spanien',
+    'Sweden': 'Schweden',
+    'Hungary': 'Ungarn',
+    'Portugal': 'Portugal',
+    'France': 'Frankreich',
+    'Germany': 'Deutschland'
+}
