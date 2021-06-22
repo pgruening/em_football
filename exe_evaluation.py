@@ -1,7 +1,9 @@
+import datetime
+import time
+
 import pandas as pd
 from DLBio.helpers import MyDataFrame
-import time
-import datetime
+from mdutils.mdutils import MdUtils
 
 PATH = 'em_results.csv'
 
@@ -9,9 +11,10 @@ PATH = 'em_results.csv'
 def run():
     players = {
         'Manja': evaluate('manja.md'),
-        'Philipp': evaluate('philipp.md'),
+        'Philipp (Bot)': evaluate('philipp.md'),
         'Felix': evaluate('felix.md'),
-        'Hans-Peter': evaluate('hans_peter.md'),
+        'Hans-Peter (Bot)': evaluate('hans_peter.md'),
+        'Laura': evaluate('laura.md'),
     }
 
     df = MyDataFrame()
@@ -25,7 +28,22 @@ def run():
     df = df.get_df().sort_values('points', ascending=False)
     print(df)
 
-    # print(players["Hans-Peter"])
+    md_file = MdUtils(file_name='README.md', title='em_football')
+    md_file.new_header(level=1, title='Leaderboard')
+    md_file.new_paragraph(df.to_markdown())
+
+    md_file.new_header(level=2, title='Rules')
+    md_file.new_paragraph(
+        "Predicting the right result: 3 Points. Predicting the right winner or draw: 1 Point. Accuracy: number of correct winner/draw predictions divided by total number of games."
+    )
+
+    md_file.new_header(level=1, title="Each player's prediction:")
+    for player, tmp in players.items():
+        md_file.new_header(level=2, title=player)
+        md_file.new_paragraph(tmp.to_markdown())
+
+    md_file.create_md_file()
+    print('create new README.md')
 
 
 def evaluate(path):
